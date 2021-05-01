@@ -17,7 +17,6 @@ RUN apt-get install -y libminiupnpc-dev
 RUN apt-get install -y libzmq3-dev
 #build hubucoin source
 COPY . /hubucoin
-COPY ./hubucoin.conf /root/.hubucoin/hubucoin.conf
 RUN ./autogen.sh
 RUN ./configure
 RUN make -j4
