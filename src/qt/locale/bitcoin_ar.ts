@@ -66,12 +66,12 @@
         <translation>عناوين الاستقبال</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>هذه هي عناوين Hubucoin التابعة لك من أجل إرسال الدفعات. تحقق دائما من المبلغ و عنوان المرسل المستقبل قبل إرسال العملات</translation>
+        <source>These are your DiamondHandsCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>هذه هي عناوين DiamondHandsCoin التابعة لك من أجل إرسال الدفعات. تحقق دائما من المبلغ و عنوان المرسل المستقبل قبل إرسال العملات</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>هذه هي عناوين Hubucoin التابعة لك من أجل إستقبال الدفعات. ينصح استخدام عنوان جديد من أجل كل صفقة</translation>
+        <source>These are your DiamondHandsCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>هذه هي عناوين DiamondHandsCoin التابعة لك من أجل إستقبال الدفعات. ينصح استخدام عنوان جديد من أجل كل صفقة</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -334,8 +334,8 @@
         <translation>إعادة فهرسة الكتل على القرص ...</translation>
     </message>
     <message>
-        <source>Send coins to a Hubucoin address</source>
-        <translation>ارسل عملات الى عنوان Hubucoin</translation>
+        <source>Send coins to a DiamondHandsCoin address</source>
+        <translation>ارسل عملات الى عنوان DiamondHandsCoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -358,7 +358,7 @@
         <translation>&amp;التحقق من الرسالة...</translation>
     </message>
     <message>
-        <source>Hubucoin</source>
+        <source>DiamondHandsCoin</source>
         <translation>بتكوين</translation>
     </message>
     <message>
@@ -382,12 +382,12 @@
         <translation>تشفير المفتاح الخاص بمحفظتك</translation>
     </message>
     <message>
-        <source>Sign messages with your Hubucoin addresses to prove you own them</source>
-        <translation>وقَع الرسائل بواسطة ال: Hubucoin الخاص بك لإثبات امتلاكك لهم</translation>
+        <source>Sign messages with your DiamondHandsCoin addresses to prove you own them</source>
+        <translation>وقَع الرسائل بواسطة ال: DiamondHandsCoin الخاص بك لإثبات امتلاكك لهم</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Hubucoin addresses</source>
-        <translation>تحقق من الرسائل للتأكد من أنَها وُقعت برسائل Hubucoin محدَدة</translation>
+        <source>Verify messages to ensure they were signed with specified DiamondHandsCoin addresses</source>
+        <translation>تحقق من الرسائل للتأكد من أنَها وُقعت برسائل DiamondHandsCoin محدَدة</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -406,7 +406,7 @@
         <translation>شريط أدوات علامات التبويب</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and hubucoin: URIs)</source>
+        <source>Request payments (generates QR codes and diamondhandscoin: URIs)</source>
         <translation>أطلب دفعات (يولد كودات الرمز المربع وبيت كوين: العناوين المعطاة)</translation>
     </message>
     <message>
@@ -418,8 +418,8 @@
         <translation>عرض قائمة عناوين الإستقبال المستخدمة والملصقات</translation>
     </message>
     <message>
-        <source>Open a hubucoin: URI or payment request</source>
-        <translation>فتح URI : Hubucoin أو طلب دفع</translation>
+        <source>Open a diamondhandscoin: URI or payment request</source>
+        <translation>فتح URI : DiamondHandsCoin أو طلب دفع</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -486,7 +486,7 @@
         <translation>اغلق المحفظة</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Hubucoin command-line options</source>
+        <source>Show the %1 help message to get a list with possible DiamondHandsCoin command-line options</source>
         <translation>بين اشارة المساعدة %1 للحصول على قائمة من خيارات اوامر البت كوين المحتملة </translation>
     </message>
     <message>
@@ -594,8 +594,8 @@
         <translation>المحفظة &lt;b&gt;مشفرة&lt;/b&gt; و &lt;b&gt;مقفلة&lt;/b&gt; حاليا</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Hubucoin can no longer continue safely and will quit.</source>
-        <translation>خطأ فادح حدث . لا يمكن اتمام Hubucoin بامان سيتم الخروج</translation>
+        <source>A fatal error occurred. DiamondHandsCoin can no longer continue safely and will quit.</source>
+        <translation>خطأ فادح حدث . لا يمكن اتمام DiamondHandsCoin بامان سيتم الخروج</translation>
     </message>
 </context>
 <context>
@@ -780,7 +780,7 @@
         <translation>تعديل عنوان الارسال</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Hubucoin address.</source>
+        <source>The entered address "%1" is not a valid DiamondHandsCoin address.</source>
         <translation>العنوان المدخل "%1" ليس عنوان بيت كوين صحيح.</translation>
     </message>
     <message>
@@ -869,7 +869,7 @@
         <translation>استخدام دليل بيانات مخصص:</translation>
     </message>
     <message>
-        <source>Hubucoin</source>
+        <source>DiamondHandsCoin</source>
         <translation>بتكوين</translation>
     </message>
     <message>
@@ -881,7 +881,7 @@
         <translation>سيتم تخزين %1 جيجابايت تقريباً من البيانات في هذا الدليل.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Hubucoin block chain.</source>
+        <source>%1 will download and store a copy of the DiamondHandsCoin block chain.</source>
         <translation>سيقوم %1 بتنزيل نسخة من سلسلة كتل بتكوين وتخزينها.</translation>
     </message>
     <message>
@@ -904,11 +904,11 @@
         <translation>نمودج</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the hubucoin network, as detailed below.</source>
-        <translation>قد لا تكون المعاملات الأخيرة مرئية بعد، وبالتالي قد يكون رصيد محفظتك غير صحيح. ستكون هذه المعلومات صحيحة بمجرد الانتهاء من محفظتك مع شبكة الHubucoin، كما هو مفصل أدناه.</translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the diamondhandscoin network, as detailed below.</source>
+        <translation>قد لا تكون المعاملات الأخيرة مرئية بعد، وبالتالي قد يكون رصيد محفظتك غير صحيح. ستكون هذه المعلومات صحيحة بمجرد الانتهاء من محفظتك مع شبكة الDiamondHandsCoin، كما هو مفصل أدناه.</translation>
     </message>
     <message>
-        <source>Attempting to spend hubucoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <source>Attempting to spend diamondhandscoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
         <translation>لن تقبل الشبكة محاولة إنفاق البتكوين المتأثرة بالمعاملات التي لم يتم عرضها بعد.</translation>
     </message>
     <message>
@@ -1062,7 +1062,7 @@
         <translation>السماح بالاتصالات الواردة.</translation>
     </message>
     <message>
-        <source>Connect to the Hubucoin network through a SOCKS5 proxy.</source>
+        <source>Connect to the DiamondHandsCoin network through a SOCKS5 proxy.</source>
         <translation>الاتصال بشبكة البتكوين عبر وكيل SOCKS5.</translation>
     </message>
     <message>
@@ -1098,7 +1098,7 @@
         <translation>تور</translation>
     </message>
     <message>
-        <source>Connect to the Hubucoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <source>Connect to the DiamondHandsCoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
         <translation>قم بالاتصال بشبكة بتكوين عبر وكيل SOCKS5 منفصل لخدمات تور المخفية.</translation>
     </message>
     <message>
@@ -1197,7 +1197,7 @@
         <translation>نمودج</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Hubucoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DiamondHandsCoin network after a connection is established, but this process has not completed yet.</source>
         <translation>قد تكون المعلومات المعروضة قديمة. تتزامن محفظتك تلقائيًا مع شبكة البتكوين بعد إنشاء الاتصال، ولكن هذه العملية لم تكتمل بعد.</translation>
     </message>
     <message>
@@ -1272,7 +1272,7 @@
         <translation>خطأ في طلب الدفع</translation>
     </message>
     <message>
-        <source>Cannot start hubucoin: click-to-pay handler</source>
+        <source>Cannot start diamondhandscoin: click-to-pay handler</source>
         <translation>لا يمكن تشغيل بتكوين: معالج النقر للدفع</translation>
     </message>
     <message>
@@ -1284,7 +1284,7 @@
         <translation>عنوان الدفع غير صالح %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Hubucoin address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid DiamondHandsCoin address or malformed URI parameters.</source>
         <translation>لا يمكن تحليل العنوان (URI)! يمكن أن يحدث هذا بسبب عنوان بتكوين غير صالح أو معلمات عنوان (URI) غير صحيحة.</translation>
     </message>
     <message>
@@ -1386,7 +1386,7 @@
         <translation>مبلغ</translation>
     </message>
     <message>
-        <source>Enter a Hubucoin address (e.g. %1)</source>
+        <source>Enter a DiamondHandsCoin address (e.g. %1)</source>
         <translation>ادخل عنوان محفطة البتكوين (مثال %1)</translation>
     </message>
     <message>
@@ -1778,7 +1778,7 @@
         <translation>&amp;رسالة:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Hubucoin network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the DiamondHandsCoin network.</source>
         <translation>رسالة اختيارية لإرفاقها بطلب الدفع، والتي سيتم عرضها عند فتح الطلب. ملاحظة: لن يتم إرسال الرسالة مع الدفعة عبر شبكة البتكوين.</translation>
     </message>
     <message>
@@ -2163,7 +2163,7 @@
         <translation>انتهاء صلاحية طلب الدفع.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Hubucoin address</source>
+        <source>Warning: Invalid DiamondHandsCoin address</source>
         <translation>تحذير: عنوان بتكوين غير صالح</translation>
     </message>
     <message>
@@ -2202,7 +2202,7 @@
         <translation>هذا دفع اعتيادي</translation>
     </message>
     <message>
-        <source>The Hubucoin address to send the payment to</source>
+        <source>The DiamondHandsCoin address to send the payment to</source>
         <translation>عنوان البت كوين المرسل اليه الدفع</translation>
     </message>
     <message>
@@ -2222,7 +2222,7 @@
         <translation>ازل هذه المداخله</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less hubucoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less diamondhandscoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
         <translation>سيتم خصم الرسوم من المبلغ الذي يتم إرساله. لذا سوف يتلقى المستلم مبلغ أقل من البتكوين المدخل في حقل المبلغ. في حالة تحديد عدة مستلمين، يتم تقسيم الرسوم بالتساوي.</translation>
     </message>
     <message>
@@ -2250,7 +2250,7 @@
         <translation>أدخل تسمية لهذا العنوان لإضافته إلى قائمة العناوين المستخدمة</translation>
     </message>
     <message>
-        <source>A message that was attached to the hubucoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Hubucoin network.</source>
+        <source>A message that was attached to the diamondhandscoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the DiamondHandsCoin network.</source>
         <translation>الرسالة التي تم إرفاقها مع البتكوين: العنوان الذي سيتم تخزينه مع المعاملة للرجوع إليه. ملاحظة: لن يتم إرسال هذه الرسالة عبر شبكة البتكوين.</translation>
     </message>
     <message>
@@ -2295,7 +2295,7 @@
         <translation>&amp;توقيع الرسالة</translation>
     </message>
     <message>
-        <source>The Hubucoin address to sign the message with</source>
+        <source>The DiamondHandsCoin address to sign the message with</source>
         <translation>عنوان البتكوين لتوقيع الرسالة به</translation>
     </message>
     <message>
@@ -2327,7 +2327,7 @@
         <translation>نسخ التوقيع الحالي إلى حافظة النظام</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Hubucoin address</source>
+        <source>Sign the message to prove you own this DiamondHandsCoin address</source>
         <translation>وقع الرسالة لتثبت انك تمتلك عنوان البت كوين هذا</translation>
     </message>
     <message>
@@ -2347,11 +2347,11 @@
         <translation>&amp;تحقق رسالة</translation>
     </message>
     <message>
-        <source>The Hubucoin address the message was signed with</source>
+        <source>The DiamondHandsCoin address the message was signed with</source>
         <translation>عنوان البتكوين الذي تم توقيع الرسالة به</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Hubucoin address</source>
+        <source>Verify the message to ensure it was signed with the specified DiamondHandsCoin address</source>
         <translation>تحقق من الرسالة للتأكد من توقيعها مع عنوان البتكوين المحدد</translation>
     </message>
     <message>
@@ -2955,8 +2955,8 @@
         <translation>غير قادر على بدء خادم ال HTTP. راجع سجل تصحيح الأخطاء للحصول على التفاصيل.</translation>
     </message>
     <message>
-        <source>Hubucoin Core</source>
-        <translation>جوهر Hubucoin</translation>
+        <source>DiamondHandsCoin Core</source>
+        <translation>جوهر DiamondHandsCoin</translation>
     </message>
     <message>
         <source>Cannot obtain a lock on data directory %s. %s is probably already running.</source>

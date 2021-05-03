@@ -42,7 +42,7 @@ QString BitcoinUnits::longName(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("HUC");
+    case BTC: return QString("DHC");
     case mBTC: return QString("hubs");
     case uBTC: return QString("hotons");
     case SAT: return QString("litoshi");
@@ -64,7 +64,7 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("Hubucoins");
+    case BTC: return QString("DiamondHandsCoins");
     case mBTC: return QString("Lites (1 / 1" THIN_SP_UTF8 "000)");
     case uBTC: return QString("Photons (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
     case SAT: return QString("Litoshis (sat) (1 / 100" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");

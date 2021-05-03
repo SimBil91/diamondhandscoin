@@ -62,12 +62,12 @@
         <translation>Fogadó címek</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ezek az Ön kifizetéseinek küldésekor használandó Hubucoin-címek. Fizetés indítása előtt mindig ellenőrizze az összeget és a fogadó címet!</translation>
+        <source>These are your DiamondHandsCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ezek az Ön kifizetéseinek küldésekor használandó DiamondHandsCoin-címek. Fizetés indítása előtt mindig ellenőrizze az összeget és a fogadó címet!</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Ezek az Ön fizetéseinek fogadásakor használandó Hubucoin-címek. Célszerű minden tranzakcióhoz új fogadó címet használni.</translation>
+        <source>These are your DiamondHandsCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Ezek az Ön fizetéseinek fogadásakor használandó DiamondHandsCoin-címek. Célszerű minden tranzakcióhoz új fogadó címet használni.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -326,8 +326,8 @@
         <translation>A blokkok újraindexelése folyik a merevlemezen...</translation>
     </message>
     <message>
-        <source>Send coins to a Hubucoin address</source>
-        <translation>Érmék küldése egy Hubucoin címre</translation>
+        <source>Send coins to a DiamondHandsCoin address</source>
+        <translation>Érmék küldése egy DiamondHandsCoin címre</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -350,8 +350,8 @@
         <translation>Üzenet &amp;ellenőrzése</translation>
     </message>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -374,12 +374,12 @@
         <translation>Tárcájához tartozó privát kulcsok titkosítása</translation>
     </message>
     <message>
-        <source>Sign messages with your Hubucoin addresses to prove you own them</source>
-        <translation>Írja alá az üzeneteit a Hubucoin címével, hogy bizonyítsa Öntől származnak</translation>
+        <source>Sign messages with your DiamondHandsCoin addresses to prove you own them</source>
+        <translation>Írja alá az üzeneteit a DiamondHandsCoin címével, hogy bizonyítsa Öntől származnak</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Hubucoin addresses</source>
-        <translation>Ellenőrizze az üzeneteket, hogy a megadott Hubucoin címekkel lettek-e aláírva</translation>
+        <source>Verify messages to ensure they were signed with specified DiamondHandsCoin addresses</source>
+        <translation>Ellenőrizze az üzeneteket, hogy a megadott DiamondHandsCoin címekkel lettek-e aláírva</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -398,8 +398,8 @@
         <translation>Ablak fülek eszköztára</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and hubucoin: URIs)</source>
-        <translation>Kérjen fizetéseket (QR kódokat generál és hubucoin: URLeket)</translation>
+        <source>Request payments (generates QR codes and diamondhandscoin: URIs)</source>
+        <translation>Kérjen fizetéseket (QR kódokat generál és diamondhandscoin: URLeket)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -410,16 +410,16 @@
         <translation>Mutassa a használt fogadó címek és cimkék listáját</translation>
     </message>
     <message>
-        <source>Open a hubucoin: URI or payment request</source>
-        <translation>Nyisson meg egy hubucoin: URI-t vagy fizetési kérelmet</translation>
+        <source>Open a diamondhandscoin: URI or payment request</source>
+        <translation>Nyisson meg egy diamondhandscoin: URI-t vagy fizetési kérelmet</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Parancssor beállításai</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Hubucoin network</source>
-        <translation><numerusform>%n aktív kapcsolat a Hubucoin-hálózaton</numerusform><numerusform>%n aktív kapcsolat a Hubucoin-hálózaton</numerusform></translation>
+        <source>%n active connection(s) to DiamondHandsCoin network</source>
+        <translation><numerusform>%n aktív kapcsolat a DiamondHandsCoin-hálózaton</numerusform><numerusform>%n aktív kapcsolat a DiamondHandsCoin-hálózaton</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -462,8 +462,8 @@
         <translation>Naprakész</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Hubucoin command-line options</source>
-        <translation>Mutassa a %1 súgó üzenetet a lehetséges Hubucoin parancssori beállítások listájáért</translation>
+        <source>Show the %1 help message to get a list with possible DiamondHandsCoin command-line options</source>
+        <translation>Mutassa a %1 súgó üzenetet a lehetséges DiamondHandsCoin parancssori beállítások listájáért</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -536,8 +536,8 @@
         <translation>Tárca &lt;b&gt;titkosítva&lt;/b&gt; és jelenleg &lt;b&gt;zárolva&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Hubucoin can no longer continue safely and will quit.</source>
-        <translation>Fatális hiba történt. A Hubucoin program nem tud tovább biztonságosan működni és be fog záródni.</translation>
+        <source>A fatal error occurred. DiamondHandsCoin can no longer continue safely and will quit.</source>
+        <translation>Fatális hiba történt. A DiamondHandsCoin program nem tud tovább biztonságosan működni és be fog záródni.</translation>
     </message>
 </context>
 <context>
@@ -726,8 +726,8 @@
         <translation>Küldési cím szerkesztése</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Hubucoin address.</source>
-        <translation>A megadott cím"%1" nem egy érvényes Hubucoin cím.</translation>
+        <source>The entered address "%1" is not a valid DiamondHandsCoin address.</source>
+        <translation>A megadott cím"%1" nem egy érvényes DiamondHandsCoin cím.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -815,8 +815,8 @@
         <translation>Egyéni adatmappa használata:</translation>
     </message>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -827,8 +827,8 @@
         <translation>Hozzávetőlegesen %1 GB adatot fogunk ebben a könyvtárban tárolni.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Hubucoin block chain.</source>
-        <translation>%1 le fog töltődni és a Hubucoin blokk lánc egy másolatát fogja tárolni.</translation>
+        <source>%1 will download and store a copy of the DiamondHandsCoin block chain.</source>
+        <translation>%1 le fog töltődni és a DiamondHandsCoin blokk lánc egy másolatát fogja tárolni.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -854,12 +854,12 @@
         <translation>Űrlap</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the hubucoin network, as detailed below.</source>
-        <translation>A legutóbbi tranzakciók még lehet, hogy nem látszanak, ezért előfordulhat, hogy a pénztárca egyenlege nem a valós állapotot mutatja. Ha a pénztárca befejezte a szinkronizációt a hubucoin hálózattal, utána már az aktuális egyenleget fogja mutatni, amint alant részletesen látszik.</translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the diamondhandscoin network, as detailed below.</source>
+        <translation>A legutóbbi tranzakciók még lehet, hogy nem látszanak, ezért előfordulhat, hogy a pénztárca egyenlege nem a valós állapotot mutatja. Ha a pénztárca befejezte a szinkronizációt a diamondhandscoin hálózattal, utána már az aktuális egyenleget fogja mutatni, amint alant részletesen látszik.</translation>
     </message>
     <message>
-        <source>Attempting to spend hubucoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>A hálózat nem fogadja el azoknak a hubucoinoknak az elköltését, amelyek érintettek a még nem látszódó tranzakciókban.</translation>
+        <source>Attempting to spend diamondhandscoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <translation>A hálózat nem fogadja el azoknak a diamondhandscoinoknak az elköltését, amelyek érintettek a még nem látszódó tranzakciókban.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -1012,8 +1012,8 @@
         <translation>&amp;Költése a a jóváhagyatlan visszajárónak</translation>
     </message>
     <message>
-        <source>Automatically open the Hubucoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatikusan nyissa meg a Hubucoin kliens által használt portot a routeren. Ez csak akkor működik, ha a router támogatja a UPnP-t, és engedélyezett ez a beállítás.</translation>
+        <source>Automatically open the DiamondHandsCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatikusan nyissa meg a DiamondHandsCoin kliens által használt portot a routeren. Ez csak akkor működik, ha a router támogatja a UPnP-t, és engedélyezett ez a beállítás.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1028,8 +1028,8 @@
         <translation>&amp;Bejövő kapcsolatok engedélyezése</translation>
     </message>
     <message>
-        <source>Connect to the Hubucoin network through a SOCKS5 proxy.</source>
-        <translation>Csatlakozás a Hubucoin hálózathoz SOCKS5 proxy használatával.</translation>
+        <source>Connect to the DiamondHandsCoin network through a SOCKS5 proxy.</source>
+        <translation>Csatlakozás a DiamondHandsCoin hálózathoz SOCKS5 proxy használatával.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1064,8 +1064,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Hubucoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Csatlakozás a Hubucoin hálózathoz külön SOCKS5 proxy használatával a Tor rejtett szolgáltatásainak eléréséhez.</translation>
+        <source>Connect to the DiamondHandsCoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Csatlakozás a DiamondHandsCoin hálózathoz külön SOCKS5 proxy használatával a Tor rejtett szolgáltatásainak eléréséhez.</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1171,7 +1171,7 @@
         <translation>Űrlap</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Hubucoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DiamondHandsCoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Lehet, hogy a megjelenített információ elavult. A tárcája automatikusan szinkronizál a hálózattal kapcsolódás után, de a folyamat még nem ért véget.</translation>
     </message>
     <message>
@@ -1246,8 +1246,8 @@
         <translation>Hiba történt a fizetési kérelem során</translation>
     </message>
     <message>
-        <source>Cannot start hubucoin: click-to-pay handler</source>
-        <translation>A hubucoin nem tud elindulni: click-to-pay kezelő</translation>
+        <source>Cannot start diamondhandscoin: click-to-pay handler</source>
+        <translation>A diamondhandscoin nem tud elindulni: click-to-pay kezelő</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1258,8 +1258,8 @@
         <translation>Érvénytelen fizetési cím %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Hubucoin address or malformed URI parameters.</source>
-        <translation>Az URI nem dolgozható fel! Ennek oka lehet egy érvénytelen Hubucoin-cím, vagy hibás URI-paraméterek.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid DiamondHandsCoin address or malformed URI parameters.</source>
+        <translation>Az URI nem dolgozható fel! Ennek oka lehet egy érvénytelen DiamondHandsCoin-cím, vagy hibás URI-paraméterek.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1356,8 +1356,8 @@
         <translation>Összeg</translation>
     </message>
     <message>
-        <source>Enter a Hubucoin address (e.g. %1)</source>
-        <translation>Adjon meg egy Hubucoin-címet (pl. %1)</translation>
+        <source>Enter a DiamondHandsCoin address (e.g. %1)</source>
+        <translation>Adjon meg egy DiamondHandsCoin-címet (pl. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1768,8 +1768,8 @@
         <translation>&amp;Üzenet:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Hubucoin network.</source>
-        <translation>Opciónális üzenet csatolása a fizetési kérelemhez, ami a kérelem megnyitásakor megjelenik. Megjegyzés: Az üzenet nem lesz elküldve a fizetéssel a Hubucoin hálózaton.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the DiamondHandsCoin network.</source>
+        <translation>Opciónális üzenet csatolása a fizetési kérelemhez, ami a kérelem megnyitásakor megjelenik. Megjegyzés: Az üzenet nem lesz elküldve a fizetéssel a DiamondHandsCoin hálózaton.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2089,8 +2089,8 @@
         <translation>Fizetési kérelem lejárt</translation>
     </message>
     <message>
-        <source>Warning: Invalid Hubucoin address</source>
-        <translation>Figyelem: érvénytelen Hubucoin cím</translation>
+        <source>Warning: Invalid DiamondHandsCoin address</source>
+        <translation>Figyelem: érvénytelen DiamondHandsCoin cím</translation>
     </message>
     <message>
         <source>Confirm custom change address</source>
@@ -2553,8 +2553,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Hubucoin Core</source>
-        <translation>Hubucoin Mag</translation>
+        <source>DiamondHandsCoin Core</source>
+        <translation>DiamondHandsCoin Mag</translation>
     </message>
     <message>
         <source>Do you want to rebuild the block database now?</source>

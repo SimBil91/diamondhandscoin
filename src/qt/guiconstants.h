@@ -46,11 +46,11 @@ static const int MAX_URI_LENGTH = 255;
 /* Number of frames in spinner animation */
 #define SPINNER_FRAMES 36
 
-#define QAPP_ORG_NAME "Hubucoin"
-#define QAPP_ORG_DOMAIN "hubucoin.org"
-#define QAPP_APP_NAME_DEFAULT "Hubucoin-Qt"
-#define QAPP_APP_NAME_TESTNET "Hubucoin-Qt-testnet"
-#define QAPP_APP_NAME_REGTEST "Hubucoin-Qt-regtest"
+#define QAPP_ORG_NAME "DiamondHandsCoin"
+#define QAPP_ORG_DOMAIN "diamondhandscoin.org"
+#define QAPP_APP_NAME_DEFAULT "DiamondHandsCoin-Qt"
+#define QAPP_APP_NAME_TESTNET "DiamondHandsCoin-Qt-testnet"
+#define QAPP_APP_NAME_REGTEST "DiamondHandsCoin-Qt-regtest"
 
 /* One gigabyte (GB) in bytes */
 static constexpr uint64_t GB_BYTES{1000000000};

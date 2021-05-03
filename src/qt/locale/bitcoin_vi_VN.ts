@@ -62,12 +62,12 @@
         <translation>Địa chỉ nhận</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Đây là các địa chỉ Hubucoin để gửi bạn gửi tiền. Trước khi gửi bạn nên kiểm tra lại số tiền bạn muốn gửi và địa chỉ hubucoin của người nhận.</translation>
+        <source>These are your DiamondHandsCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Đây là các địa chỉ DiamondHandsCoin để gửi bạn gửi tiền. Trước khi gửi bạn nên kiểm tra lại số tiền bạn muốn gửi và địa chỉ diamondhandscoin của người nhận.</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Đây là các địa chỉ Hubucoin để bạn nhận tiền. Với mỗi giao dịch, bạn nên dùng một địa chỉ Hubucoin mới để nhận tiền.</translation>
+        <source>These are your DiamondHandsCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Đây là các địa chỉ DiamondHandsCoin để bạn nhận tiền. Với mỗi giao dịch, bạn nên dùng một địa chỉ DiamondHandsCoin mới để nhận tiền.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -319,8 +319,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Đánh chỉ số (indexing) lại các khối (blocks) trên ổ đĩa ...</translation>
     </message>
     <message>
-        <source>Send coins to a Hubucoin address</source>
-        <translation>Gửi coins đến tài khoản Hubucoin</translation>
+        <source>Send coins to a DiamondHandsCoin address</source>
+        <translation>Gửi coins đến tài khoản DiamondHandsCoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -343,8 +343,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>&amp;Tin nhắn xác thực</translation>
     </message>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -367,12 +367,12 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Mã hoá các khoá bí mật trong Ví của bạn.</translation>
     </message>
     <message>
-        <source>Sign messages with your Hubucoin addresses to prove you own them</source>
-        <translation>Dùng địa chỉ Hubucoin của bạn ký các tin nhắn để xác minh những nội dung tin nhắn đó là của bạn.</translation>
+        <source>Sign messages with your DiamondHandsCoin addresses to prove you own them</source>
+        <translation>Dùng địa chỉ DiamondHandsCoin của bạn ký các tin nhắn để xác minh những nội dung tin nhắn đó là của bạn.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Hubucoin addresses</source>
-        <translation>Kiểm tra các tin nhắn để chắc chắn rằng chúng được ký bằng các địa chỉ Hubucoin xác định.</translation>
+        <source>Verify messages to ensure they were signed with specified DiamondHandsCoin addresses</source>
+        <translation>Kiểm tra các tin nhắn để chắc chắn rằng chúng được ký bằng các địa chỉ DiamondHandsCoin xác định.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -391,8 +391,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Thanh công cụ (toolbar)</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and hubucoin: URIs)</source>
-        <translation>Yêu cầu thanh toán(tạo mã QR và địa chỉ Hubucoin: URLs)</translation>
+        <source>Request payments (generates QR codes and diamondhandscoin: URIs)</source>
+        <translation>Yêu cầu thanh toán(tạo mã QR và địa chỉ DiamondHandsCoin: URLs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -403,16 +403,16 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Hiện thỉ danh sách các địa chỉ và nhãn đã dùng để nhận.</translation>
     </message>
     <message>
-        <source>Open a hubucoin: URI or payment request</source>
-        <translation>Mở hubucoin:URL hoặc yêu cầu thanh toán</translation>
+        <source>Open a diamondhandscoin: URI or payment request</source>
+        <translation>Mở diamondhandscoin:URL hoặc yêu cầu thanh toán</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>7Tùy chọn dòng lệnh</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Hubucoin network</source>
-        <translation><numerusform>%n liên kết hoạt động với mạng lưới Hubucoin</numerusform></translation>
+        <source>%n active connection(s) to DiamondHandsCoin network</source>
+        <translation><numerusform>%n liên kết hoạt động với mạng lưới DiamondHandsCoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -455,8 +455,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Đã cập nhật</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Hubucoin command-line options</source>
-        <translation>Hiển thị tin nhắn trợ giúp %1 để có được danh sách với các tùy chọn dòng lệnh Hubucoin.</translation>
+        <source>Show the %1 help message to get a list with possible DiamondHandsCoin command-line options</source>
+        <translation>Hiển thị tin nhắn trợ giúp %1 để có được danh sách với các tùy chọn dòng lệnh DiamondHandsCoin.</translation>
     </message>
     <message>
         <source>Connecting to peers...</source>
@@ -620,8 +620,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Sử dụng vị trí dữ liệu mặc định</translation>
     </message>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -669,8 +669,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Ví</translation>
     </message>
     <message>
-        <source>Connect to the Hubucoin network through a SOCKS5 proxy.</source>
-        <translation>Kết nối đến máy chủ Hubucoin thông qua SOCKS5 proxy.</translation>
+        <source>Connect to the DiamondHandsCoin network through a SOCKS5 proxy.</source>
+        <translation>Kết nối đến máy chủ DiamondHandsCoin thông qua SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1182,8 +1182,8 @@ Ví của bạn chưa được mã hóa.</translation>
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Hubucoin Core</source>
-        <translation>Hubucoin Core</translation>
+        <source>DiamondHandsCoin Core</source>
+        <translation>DiamondHandsCoin Core</translation>
     </message>
     <message>
         <source>Information</source>

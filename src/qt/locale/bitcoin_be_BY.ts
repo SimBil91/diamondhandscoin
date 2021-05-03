@@ -66,12 +66,12 @@
         <translation>адрасы Прымання</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Тут знаходзяцца Hubucoin-адрасы для высылання плацяжоў. Заўсёды спраўджвайце колькасць і адрас прызначэння перад здзяйсненнем транзакцыі.</translation>
+        <source>These are your DiamondHandsCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Тут знаходзяцца DiamondHandsCoin-адрасы для высылання плацяжоў. Заўсёды спраўджвайце колькасць і адрас прызначэння перад здзяйсненнем транзакцыі.</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Тут знаходзяцца Hubucoin-адрасы для прымання плацяжоў. Пажадана выкарыстоўваць новы адрас для кожнай транзакцыі.</translation>
+        <source>These are your DiamondHandsCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Тут знаходзяцца DiamondHandsCoin-адрасы для прымання плацяжоў. Пажадана выкарыстоўваць новы адрас для кожнай транзакцыі.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -290,8 +290,8 @@
         <translation>Пераіндэксацыя блокаў на дыску...</translation>
     </message>
     <message>
-        <source>Send coins to a Hubucoin address</source>
-        <translation>Даслаць манеты на Hubucoin-адрас</translation>
+        <source>Send coins to a DiamondHandsCoin address</source>
+        <translation>Даслаць манеты на DiamondHandsCoin-адрас</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -314,8 +314,8 @@
         <translation>Праверыць паведамленне...</translation>
     </message>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -338,12 +338,12 @@
         <translation>Зашыфраваць прыватныя ключы, якия належаць вашаму гаманцу</translation>
     </message>
     <message>
-        <source>Sign messages with your Hubucoin addresses to prove you own them</source>
-        <translation>Падпісаць паведамленне з дапамогай Hubucoin-адраса каб даказаць, што яно належыць вам</translation>
+        <source>Sign messages with your DiamondHandsCoin addresses to prove you own them</source>
+        <translation>Падпісаць паведамленне з дапамогай DiamondHandsCoin-адраса каб даказаць, што яно належыць вам</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Hubucoin addresses</source>
-        <translation>Спраўдзіць паведамленне з дапамогай Hubucoin-адраса каб даказаць, што яно належыць вам</translation>
+        <source>Verify messages to ensure they were signed with specified DiamondHandsCoin addresses</source>
+        <translation>Спраўдзіць паведамленне з дапамогай DiamondHandsCoin-адраса каб даказаць, што яно належыць вам</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -358,8 +358,8 @@
         <translation>Дапамога</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and hubucoin: URIs)</source>
-        <translation>Запатрабаваць плацёж (генеруецца QR-код для hubucoin URI)</translation>
+        <source>Request payments (generates QR codes and diamondhandscoin: URIs)</source>
+        <translation>Запатрабаваць плацёж (генеруецца QR-код для diamondhandscoin URI)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -370,8 +370,8 @@
         <translation>Паказаць спіс адрасоў і метак для прымання</translation>
     </message>
     <message>
-        <source>Open a hubucoin: URI or payment request</source>
-        <translation>Адкрыць hubucoin: URI ці запыт плацяжу</translation>
+        <source>Open a diamondhandscoin: URI or payment request</source>
+        <translation>Адкрыць diamondhandscoin: URI ці запыт плацяжу</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -643,8 +643,8 @@
         <translation>Вітаем</translation>
     </message>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1209,8 +1209,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Hubucoin Core</source>
-        <translation>Hubucoin Core</translation>
+        <source>DiamondHandsCoin Core</source>
+        <translation>DiamondHandsCoin Core</translation>
     </message>
     <message>
         <source>Do you want to rebuild the block database now?</source>

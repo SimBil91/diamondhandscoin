@@ -1445,7 +1445,7 @@ static void ThreadMapPort()
             }
         }
 
-        std::string strDesc = "Hubucoin " + FormatFullVersion();
+        std::string strDesc = "DiamondHandsCoin " + FormatFullVersion();
 
         do {
 #ifndef UPNPDISCOVER_SUCCESS

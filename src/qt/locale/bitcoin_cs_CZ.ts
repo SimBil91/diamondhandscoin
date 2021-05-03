@@ -186,8 +186,8 @@
         <translation>Změnit heslo k šifrování peněženky</translation>
     </message>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -305,8 +305,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     </context>
 <context>

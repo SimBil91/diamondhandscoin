@@ -62,12 +62,12 @@
         <translation>Adresa na koju se prima</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ovo su Vaše Hubucoin adrese na koju se vrše uplate. Uvek proverite iznos i prijemnu adresu pre slanja novčića.</translation>
+        <source>These are your DiamondHandsCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ovo su Vaše DiamondHandsCoin adrese na koju se vrše uplate. Uvek proverite iznos i prijemnu adresu pre slanja novčića.</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Ovo su Vaše Hubucoin adrese za primanje uplata. Preporučuje se upotreba nove adrese za svaku transakciju.</translation>
+        <source>These are your DiamondHandsCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Ovo su Vaše DiamondHandsCoin adrese za primanje uplata. Preporučuje se upotreba nove adrese za svaku transakciju.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -322,8 +322,8 @@
         <translation>Ponovo obeležavam blokove na disku...</translation>
     </message>
     <message>
-        <source>Send coins to a Hubucoin address</source>
-        <translation>Pošalji novčiće na Hubucoin adresu</translation>
+        <source>Send coins to a DiamondHandsCoin address</source>
+        <translation>Pošalji novčiće na DiamondHandsCoin adresu</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -346,8 +346,8 @@
         <translation>&amp;Proveri poruku...</translation>
     </message>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -370,12 +370,12 @@
         <translation>Enkriptuj privatne ključeve novčanika</translation>
     </message>
     <message>
-        <source>Sign messages with your Hubucoin addresses to prove you own them</source>
-        <translation>Potpišite poruke sa svojim Hubucoin adresama da biste dokazali njihovo vlasništvo</translation>
+        <source>Sign messages with your DiamondHandsCoin addresses to prove you own them</source>
+        <translation>Potpišite poruke sa svojim DiamondHandsCoin adresama da biste dokazali njihovo vlasništvo</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Hubucoin addresses</source>
-        <translation>Proverite poruke da biste utvrdili sa kojim Hubucoin adresama su potpisane</translation>
+        <source>Verify messages to ensure they were signed with specified DiamondHandsCoin addresses</source>
+        <translation>Proverite poruke da biste utvrdili sa kojim DiamondHandsCoin adresama su potpisane</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -394,8 +394,8 @@
         <translation>Alatke za tabove</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and hubucoin: URIs)</source>
-        <translation>Zatražite plaćanje (generiše QR kodove i hubucoin: URI-e)</translation>
+        <source>Request payments (generates QR codes and diamondhandscoin: URIs)</source>
+        <translation>Zatražite plaćanje (generiše QR kodove i diamondhandscoin: URI-e)</translation>
     </message>
     <message>
         <source>Error</source>
@@ -499,8 +499,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -677,8 +677,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Hubucoin Core</source>
-        <translation>Hubucoin Core</translation>
+        <source>DiamondHandsCoin Core</source>
+        <translation>DiamondHandsCoin Core</translation>
     </message>
     <message>
         <source>Information</source>

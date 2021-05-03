@@ -66,12 +66,12 @@
         <translation>Adrese primatelja</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ovo su vaše Hubucoin adrese za slanje novca. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
+        <source>These are your DiamondHandsCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ovo su vaše DiamondHandsCoin adrese za slanje novca. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Ovo su vaše Hubucoin adrese za primanje novca. Preporučeno je da koristite novu primateljsku adresu za svaku transakciju.</translation>
+        <source>These are your DiamondHandsCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Ovo su vaše DiamondHandsCoin adrese za primanje novca. Preporučeno je da koristite novu primateljsku adresu za svaku transakciju.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -338,8 +338,8 @@
         <translation>Proxy je &lt;b&gt;uključen&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Hubucoin address</source>
-        <translation>Pošaljite novac na Hubucoin adresu</translation>
+        <source>Send coins to a DiamondHandsCoin address</source>
+        <translation>Pošaljite novac na DiamondHandsCoin adresu</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -362,8 +362,8 @@
         <translation>&amp;Potvrdite poruku...</translation>
     </message>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -386,12 +386,12 @@
         <translation>Šifrirajte privatne ključeve u novčaniku</translation>
     </message>
     <message>
-        <source>Sign messages with your Hubucoin addresses to prove you own them</source>
-        <translation>Poruku potpišemo s Hubucoin adresom, kako bi dokazali vlasništvo nad tom adresom</translation>
+        <source>Sign messages with your DiamondHandsCoin addresses to prove you own them</source>
+        <translation>Poruku potpišemo s DiamondHandsCoin adresom, kako bi dokazali vlasništvo nad tom adresom</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Hubucoin addresses</source>
-        <translation>Provjerite poruku da je potpisana s navedenom Hubucoin adresom</translation>
+        <source>Verify messages to ensure they were signed with specified DiamondHandsCoin addresses</source>
+        <translation>Provjerite poruku da je potpisana s navedenom DiamondHandsCoin adresom</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -410,8 +410,8 @@
         <translation>Traka kartica</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and hubucoin: URIs)</source>
-        <translation>Zatražite uplatu (stvara QR kod i hubucoin: URI adresu)</translation>
+        <source>Request payments (generates QR codes and diamondhandscoin: URIs)</source>
+        <translation>Zatražite uplatu (stvara QR kod i diamondhandscoin: URI adresu)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -422,16 +422,16 @@
         <translation>Prikažite popis korištenih adresa i oznaka za primanje novca</translation>
     </message>
     <message>
-        <source>Open a hubucoin: URI or payment request</source>
-        <translation>Otvorite hubucoin: URI adresu ili zahtjev za uplatu</translation>
+        <source>Open a diamondhandscoin: URI or payment request</source>
+        <translation>Otvorite diamondhandscoin: URI adresu ili zahtjev za uplatu</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Opcije &amp;naredbene linije</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Hubucoin network</source>
-        <translation><numerusform>%n aktivna veza na Hubucoin mrežu</numerusform><numerusform>%n aktivnih veza na Hubucoin mrežu</numerusform><numerusform>%n aktivnih veza na Hubucoin mrežu</numerusform></translation>
+        <source>%n active connection(s) to DiamondHandsCoin network</source>
+        <translation><numerusform>%n aktivna veza na DiamondHandsCoin mrežu</numerusform><numerusform>%n aktivnih veza na DiamondHandsCoin mrežu</numerusform><numerusform>%n aktivnih veza na DiamondHandsCoin mrežu</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -474,7 +474,7 @@
         <translation>Ažurno</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Hubucoin command-line options</source>
+        <source>Show the %1 help message to get a list with possible DiamondHandsCoin command-line options</source>
         <translation>Prikažite pomoć programa %1 kako biste ispisali moguće opcije preko terminala</translation>
     </message>
     <message>
@@ -557,8 +557,8 @@
         <translation>Novčanik je &lt;b&gt;šifriran&lt;/b&gt; i trenutno &lt;b&gt;zaključan&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Hubucoin can no longer continue safely and will quit.</source>
-        <translation>Dogodila se kobna greška. Hubucoin ne može više sigurno nastaviti te će se zatvoriti.</translation>
+        <source>A fatal error occurred. DiamondHandsCoin can no longer continue safely and will quit.</source>
+        <translation>Dogodila se kobna greška. DiamondHandsCoin ne može više sigurno nastaviti te će se zatvoriti.</translation>
     </message>
 </context>
 <context>
@@ -747,8 +747,8 @@
         <translation>Uredi adresu za slanje</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Hubucoin address.</source>
-        <translation>Upisana adresa "%1" nije valjana Hubucoin adresa.</translation>
+        <source>The entered address "%1" is not a valid DiamondHandsCoin address.</source>
+        <translation>Upisana adresa "%1" nije valjana DiamondHandsCoin adresa.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -844,8 +844,8 @@
         <translation>Odaberite različitu podatkovnu mapu:</translation>
     </message>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -856,8 +856,8 @@
         <translation>Otprilike %1 GB podataka bit će spremljeno u ovoj mapi.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Hubucoin block chain.</source>
-        <translation>%1 preuzet će i pohraniti kopiju Hubucoinovog lanca blokova.</translation>
+        <source>%1 will download and store a copy of the DiamondHandsCoin block chain.</source>
+        <translation>%1 preuzet će i pohraniti kopiju DiamondHandsCoinovog lanca blokova.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -883,12 +883,12 @@
         <translation>Oblik</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the hubucoin network, as detailed below.</source>
-        <translation>Nedavne transakcije možda još nisu vidljive pa vam stanje novčanika može biti netočno. Ove informacije bit će točne nakon što vaš novčanik dovrši sinkronizaciju s Hubucoinovom mrežom, kako je opisano dolje.</translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the diamondhandscoin network, as detailed below.</source>
+        <translation>Nedavne transakcije možda još nisu vidljive pa vam stanje novčanika može biti netočno. Ove informacije bit će točne nakon što vaš novčanik dovrši sinkronizaciju s DiamondHandsCoinovom mrežom, kako je opisano dolje.</translation>
     </message>
     <message>
-        <source>Attempting to spend hubucoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>Mreža neće prihvatiti pokušaje trošenja hubucoina koji su utjecani sa strane transakcija koje još nisu vidljive.</translation>
+        <source>Attempting to spend diamondhandscoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <translation>Mreža neće prihvatiti pokušaje trošenja diamondhandscoina koji su utjecani sa strane transakcija koje još nisu vidljive.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -1061,8 +1061,8 @@
         <translation>&amp;Trošenje nepotvrđenih vraćenih iznosa</translation>
     </message>
     <message>
-        <source>Automatically open the Hubucoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatski otvori port Hubucoin klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
+        <source>Automatically open the DiamondHandsCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatski otvori port DiamondHandsCoin klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1077,8 +1077,8 @@
         <translation>Dozvolite dolazeće veze</translation>
     </message>
     <message>
-        <source>Connect to the Hubucoin network through a SOCKS5 proxy.</source>
-        <translation>Spojite se na Hubucoin mrežu kroz SOCKS5 proxy.</translation>
+        <source>Connect to the DiamondHandsCoin network through a SOCKS5 proxy.</source>
+        <translation>Spojite se na DiamondHandsCoin mrežu kroz SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1113,8 +1113,8 @@
         <translation>Tora</translation>
     </message>
     <message>
-        <source>Connect to the Hubucoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Spojite se na Hubucoin mrežu kroz zaseban SOCKS5 proxy za povezivanje na Tor.</translation>
+        <source>Connect to the DiamondHandsCoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Spojite se na DiamondHandsCoin mrežu kroz zaseban SOCKS5 proxy za povezivanje na Tor.</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1150,7 +1150,7 @@
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Izaberite željeni najmanji dio hubucoina koji će biti prikazan u sučelju i koji će se koristiti za plaćanje.</translation>
+        <translation>Izaberite željeni najmanji dio diamondhandscoina koji će biti prikazan u sučelju i koji će se koristiti za plaćanje.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1220,8 +1220,8 @@
         <translation>Oblik</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Hubucoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazani podatci mogu biti zastarjeli. Vaš novčanik se automatski sinkronizira s Hubucoin mrežom kada je veza uspostavljena, ali taj proces još nije završen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DiamondHandsCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazani podatci mogu biti zastarjeli. Vaš novčanik se automatski sinkronizira s DiamondHandsCoin mrežom kada je veza uspostavljena, ali taj proces još nije završen.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1295,7 +1295,7 @@
         <translation>Greška kod zahtjeva za plaćanje</translation>
     </message>
     <message>
-        <source>Cannot start hubucoin: click-to-pay handler</source>
+        <source>Cannot start diamondhandscoin: click-to-pay handler</source>
         <translation>Ne može se pokrenuti klijent: rukovatelj "kliknite da platite"</translation>
     </message>
     <message>
@@ -1303,8 +1303,8 @@
         <translation>URI upravljanje</translation>
     </message>
     <message>
-        <source>'hubucoin://' is not a valid URI. Use 'hubucoin:' instead.</source>
-        <translation>'hubucoin://' nije ispravan URI. Koristite 'hubucoin:' umjesto toga.</translation>
+        <source>'diamondhandscoin://' is not a valid URI. Use 'diamondhandscoin:' instead.</source>
+        <translation>'diamondhandscoin://' nije ispravan URI. Koristite 'diamondhandscoin:' umjesto toga.</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -1315,8 +1315,8 @@
         <translation>Nevažeća adresa za plaćanje %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Hubucoin address or malformed URI parameters.</source>
-        <translation>Ne može se parsirati URI! Uzrok tomu može biti nevažeća Hubucoin adresa ili neispravni parametri kod URI-a.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid DiamondHandsCoin address or malformed URI parameters.</source>
+        <translation>Ne može se parsirati URI! Uzrok tomu može biti nevažeća DiamondHandsCoin adresa ili neispravni parametri kod URI-a.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1417,8 +1417,8 @@
         <translation>Iznos</translation>
     </message>
     <message>
-        <source>Enter a Hubucoin address (e.g. %1)</source>
-        <translation>Unesite Hubucoin adresu (npr. %1)</translation>
+        <source>Enter a DiamondHandsCoin address (e.g. %1)</source>
+        <translation>Unesite DiamondHandsCoin adresu (npr. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1857,8 +1857,8 @@
         <translation>&amp;Poruka:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Hubucoin network.</source>
-        <translation>Opcionalna poruka koja se može dodati kao privitak zahtjevu za plaćanje. Bit će prikazana kad je zahtjev otvoren. Napomena: Ova poruka neće biti poslana zajedno s uplatom preko Hubucoin mreže.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the DiamondHandsCoin network.</source>
+        <translation>Opcionalna poruka koja se može dodati kao privitak zahtjevu za plaćanje. Bit će prikazana kad je zahtjev otvoren. Napomena: Ova poruka neće biti poslana zajedno s uplatom preko DiamondHandsCoin mreže.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2278,8 +2278,8 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
         <translation><numerusform>Procijenjeno je da će početi potvrđivanje unutar %n bloka.</numerusform><numerusform>Procijenjeno je da će početi potvrđivanje unutar %n bloka.</numerusform><numerusform>Procijenjeno je da će početi potvrđivanje unutar %n blokova.</numerusform></translation>
     </message>
     <message>
-        <source>Warning: Invalid Hubucoin address</source>
-        <translation>Upozorenje: Nevažeća Hubucoin adresa</translation>
+        <source>Warning: Invalid DiamondHandsCoin address</source>
+        <translation>Upozorenje: Nevažeća DiamondHandsCoin adresa</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2321,8 +2321,8 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
         <translation>Ovo je normalna uplata.</translation>
     </message>
     <message>
-        <source>The Hubucoin address to send the payment to</source>
-        <translation>Hubucoin adresa na koju ćete poslati uplatu</translation>
+        <source>The DiamondHandsCoin address to send the payment to</source>
+        <translation>DiamondHandsCoin adresa na koju ćete poslati uplatu</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2341,7 +2341,7 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
         <translation>Obrišite ovaj zapis</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less hubucoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less diamondhandscoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
         <translation>Naknada će biti oduzeta od poslanog iznosa. Primatelj će primiti manji iznos od onoga koji unesete u polje iznosa. Ako je odabrano više primatelja, onda će naknada biti podjednako raspodijeljena.</translation>
     </message>
     <message>
@@ -2369,8 +2369,8 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
         <translation>Unesite oznaku za ovu adresu kako bi ju dodali u vaš adresar</translation>
     </message>
     <message>
-        <source>A message that was attached to the hubucoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Hubucoin network.</source>
-        <translation>Poruka koja je dodana uplati: URI koji će biti spremljen s transakcijom za referencu. Napomena: Ova poruka neće biti poslana preko Hubucoin mreže.</translation>
+        <source>A message that was attached to the diamondhandscoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the DiamondHandsCoin network.</source>
+        <translation>Poruka koja je dodana uplati: URI koji će biti spremljen s transakcijom za referencu. Napomena: Ova poruka neće biti poslana preko DiamondHandsCoin mreže.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2414,12 +2414,12 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
         <translation>&amp;Potpišite poruku</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive hubucoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Možete potpisati poruke/dogovore svojim adresama kako biste dokazali da možete pristupiti hubucoinima poslanim na te adrese. Budite oprezni da ne potpisujte ništa nejasno ili nasumično, jer napadi phishingom vas mogu prevariti da prepišite svoj identitet njima. Potpisujte samo detaljno objašnjene izjave s kojima se slažete.</translation>
+        <source>You can sign messages/agreements with your addresses to prove you can receive diamondhandscoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <translation>Možete potpisati poruke/dogovore svojim adresama kako biste dokazali da možete pristupiti diamondhandscoinima poslanim na te adrese. Budite oprezni da ne potpisujte ništa nejasno ili nasumično, jer napadi phishingom vas mogu prevariti da prepišite svoj identitet njima. Potpisujte samo detaljno objašnjene izjave s kojima se slažete.</translation>
     </message>
     <message>
-        <source>The Hubucoin address to sign the message with</source>
-        <translation>Hubucoin adresa pomoću koje ćete potpisati poruku</translation>
+        <source>The DiamondHandsCoin address to sign the message with</source>
+        <translation>DiamondHandsCoin adresa pomoću koje ćete potpisati poruku</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2450,8 +2450,8 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
         <translation>Kopirajte trenutni potpis u međuspremnik</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Hubucoin address</source>
-        <translation>Potpišite poruku kako biste dokazali da posjedujete ovu Hubucoin adresu</translation>
+        <source>Sign the message to prove you own this DiamondHandsCoin address</source>
+        <translation>Potpišite poruku kako biste dokazali da posjedujete ovu DiamondHandsCoin adresu</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2474,12 +2474,12 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
         <translation>Unesite primateljevu adresu, poruku (provjerite da kopirate prekide crta, razmake, tabove, itd. točno) i potpis ispod da provjerite poruku. Pazite da ne pridodate veće značenje potpisu nego što je sadržano u samoj poruci kako biste izbjegli napad posrednika (MITM attack). Primijetite da ovo samo dokazuje da stranka koja potpisuje prima na adresu. Ne može dokažati da je neka stranka poslala transakciju!</translation>
     </message>
     <message>
-        <source>The Hubucoin address the message was signed with</source>
-        <translation>Hubucoin adresa kojom je poruka potpisana</translation>
+        <source>The DiamondHandsCoin address the message was signed with</source>
+        <translation>DiamondHandsCoin adresa kojom je poruka potpisana</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Hubucoin address</source>
-        <translation>Provjerite poruku da budete sigurni da je potpisana zadanom Hubucoin adresom</translation>
+        <source>Verify the message to ensure it was signed with the specified DiamondHandsCoin address</source>
+        <translation>Provjerite poruku da budete sigurni da je potpisana zadanom DiamondHandsCoin adresom</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -3134,8 +3134,8 @@ Napomena: Budući da se naknada računa po bajtu, naknada od "100 satošija po k
         <translation>Ne može se pokrenuti HTTP server. Vidite debug.log za više detalja.</translation>
     </message>
     <message>
-        <source>Hubucoin Core</source>
-        <translation>Hubucoin Core</translation>
+        <source>DiamondHandsCoin Core</source>
+        <translation>DiamondHandsCoin Core</translation>
     </message>
     <message>
         <source>The %s developers</source>

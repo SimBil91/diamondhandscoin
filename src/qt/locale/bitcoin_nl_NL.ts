@@ -62,12 +62,12 @@
         <translation>Ontvangstadres</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw Hubucoin adressen voor het versturen van betalingen. Controleer altijd het bedrag en het ontvangstadres voordat u munten verstuurd.</translation>
+        <source>These are your DiamondHandsCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dit zijn uw DiamondHandsCoin adressen voor het versturen van betalingen. Controleer altijd het bedrag en het ontvangstadres voordat u munten verstuurd.</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dit zijn uw Hubucoin adressen voor het ontvangen van betalingen. Het wordt aanbevolen om voor elke transactie een nieuw ontvangstadres te gebruiken.</translation>
+        <source>These are your DiamondHandsCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Dit zijn uw DiamondHandsCoin adressen voor het ontvangen van betalingen. Het wordt aanbevolen om voor elke transactie een nieuw ontvangstadres te gebruiken.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -322,8 +322,8 @@
         <translation>Blokken op schijf herindexeren...</translation>
     </message>
     <message>
-        <source>Send coins to a Hubucoin address</source>
-        <translation>Verstuur coins naar een Hubucoin adres</translation>
+        <source>Send coins to a DiamondHandsCoin address</source>
+        <translation>Verstuur coins naar een DiamondHandsCoin adres</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -346,8 +346,8 @@
         <translation>&amp;Bericht verifiëren</translation>
     </message>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -370,12 +370,12 @@
         <translation>Versleutel de privé sleutels die bij je portemonnee horen</translation>
     </message>
     <message>
-        <source>Sign messages with your Hubucoin addresses to prove you own them</source>
-        <translation>Signeer berichten met je Hubucoin adres om te bewijzen dat ze van jou zijn</translation>
+        <source>Sign messages with your DiamondHandsCoin addresses to prove you own them</source>
+        <translation>Signeer berichten met je DiamondHandsCoin adres om te bewijzen dat ze van jou zijn</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Hubucoin addresses</source>
-        <translation>Verifieer berichten om er zeker van te zijn dat ze met specifieke Hubucoin adressen ondertekent zijn</translation>
+        <source>Verify messages to ensure they were signed with specified DiamondHandsCoin addresses</source>
+        <translation>Verifieer berichten om er zeker van te zijn dat ze met specifieke DiamondHandsCoin adressen ondertekent zijn</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -394,8 +394,8 @@
         <translation>Tabs taakbalk</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and hubucoin: URIs)</source>
-        <translation>Betalingen aanvragen (genereert QR codes en hubucoin: URI's)</translation>
+        <source>Request payments (generates QR codes and diamondhandscoin: URIs)</source>
+        <translation>Betalingen aanvragen (genereert QR codes en diamondhandscoin: URI's)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -406,8 +406,8 @@
         <translation>Toon de lijst van gebruikte ontvangst adressen en labels</translation>
     </message>
     <message>
-        <source>Open a hubucoin: URI or payment request</source>
-        <translation>Open een hubucoin: URI of betaalverzoek</translation>
+        <source>Open a diamondhandscoin: URI or payment request</source>
+        <translation>Open een diamondhandscoin: URI of betaalverzoek</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -450,8 +450,8 @@
         <translation>Up to date</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Hubucoin command-line options</source>
-        <translation>Open het %1 help bericht om een lijst met Hubucoin commando-regel opties te krijgen</translation>
+        <source>Show the %1 help message to get a list with possible DiamondHandsCoin command-line options</source>
+        <translation>Open het %1 help bericht om een lijst met DiamondHandsCoin commando-regel opties te krijgen</translation>
     </message>
     <message>
         <source>%1 client</source>
@@ -520,8 +520,8 @@
         <translation>Portemonnee is &lt;b&gt;versleuteld&lt;/b&gt; op dit moment &lt;b&gt;vergrendeld&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Hubucoin can no longer continue safely and will quit.</source>
-        <translation>Een fatale error is voorgekomen. Hubucoin kan niet langer veilig verder gaan en sluit daardoor af.</translation>
+        <source>A fatal error occurred. DiamondHandsCoin can no longer continue safely and will quit.</source>
+        <translation>Een fatale error is voorgekomen. DiamondHandsCoin kan niet langer veilig verder gaan en sluit daardoor af.</translation>
     </message>
 </context>
 <context>
@@ -671,8 +671,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>Error</source>

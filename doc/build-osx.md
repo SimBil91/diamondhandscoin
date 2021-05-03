@@ -38,17 +38,17 @@ from the root of the repository.
 
 **Note**: You only need Berkeley DB if the wallet is enabled (see [*Disable-wallet mode*](/doc/build-osx.md#disable-wallet-mode)).
 
-Build Hubucoin Core
+Build DiamondHandsCoin Core
 ------------------------
 
-1. Clone the Hubucoin Core source code:
+1. Clone the DiamondHandsCoin Core source code:
 
-        git clone https://github.com/hubucoin-project/hubucoin
-        cd hubucoin
+        git clone https://github.com/diamondhandscoin-project/diamondhandscoin
+        cd diamondhandscoin
 
-2.  Build Hubucoin Core:
+2.  Build DiamondHandsCoin Core:
 
-    Configure and build the headless Hubucoin Core binaries as well as the GUI (if Qt is found).
+    Configure and build the headless DiamondHandsCoin Core binaries as well as the GUI (if Qt is found).
 
     You can disable the GUI build by passing `--without-gui` to configure.
 
@@ -70,13 +70,13 @@ Build Hubucoin Core
 
     or
 
-        cd ~/hubucoin/src
-        cp hubucoind /usr/local/bin/
-        cp hubucoin-cli /usr/local/bin/
+        cd ~/diamondhandscoin/src
+        cp diamondhandscoind /usr/local/bin/
+        cp diamondhandscoin-cli /usr/local/bin/
 
 Disable-wallet mode
 --------------------
-When the intention is to run only a P2P node without a wallet, Hubucoin Core may be compiled in
+When the intention is to run only a P2P node without a wallet, DiamondHandsCoin Core may be compiled in
 disable-wallet mode with:
 
     ./configure --disable-wallet
@@ -88,28 +88,28 @@ Mining is also possible in disable-wallet mode using the `getblocktemplate` RPC 
 Running
 -------
 
-Hubucoin Core is now available at `./src/hubucoind`
+DiamondHandsCoin Core is now available at `./src/diamondhandscoind`
 
 Before running, you may create an empty configuration file:
 
-    mkdir -p "/Users/${USER}/Library/Application Support/Hubucoin"
+    mkdir -p "/Users/${USER}/Library/Application Support/DiamondHandsCoin"
 
-    touch "/Users/${USER}/Library/Application Support/Hubucoin/hubucoin.conf"
+    touch "/Users/${USER}/Library/Application Support/DiamondHandsCoin/diamondhandscoin.conf"
 
-    chmod 600 "/Users/${USER}/Library/Application Support/Hubucoin/hubucoin.conf"
+    chmod 600 "/Users/${USER}/Library/Application Support/DiamondHandsCoin/diamondhandscoin.conf"
 
-The first time you run hubucoind, it will start downloading the blockchain. This process could take many hours, or even days on slower than average systems.
+The first time you run diamondhandscoind, it will start downloading the blockchain. This process could take many hours, or even days on slower than average systems.
 
 You can monitor the download process by looking at the debug.log file:
 
-    tail -f $HOME/Library/Application\ Support/Hubucoin/debug.log
+    tail -f $HOME/Library/Application\ Support/DiamondHandsCoin/debug.log
 
 Other commands:
 -------
 
-    ./src/hubucoind -daemon # Starts the hubucoin daemon.
-    ./src/hubucoin-cli --help # Outputs a list of command-line options.
-    ./src/hubucoin-cli help # Outputs a list of RPC commands when the daemon is running.
+    ./src/diamondhandscoind -daemon # Starts the diamondhandscoin daemon.
+    ./src/diamondhandscoin-cli --help # Outputs a list of command-line options.
+    ./src/diamondhandscoin-cli help # Outputs a list of RPC commands when the daemon is running.
 
 Notes
 -----

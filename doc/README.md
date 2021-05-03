@@ -1,41 +1,41 @@
-Hubucoin Core
+DiamondHandsCoin Core
 =============
 
 Setup
 ---------------------
-Hubucoin Core is the original Hubucoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Hubucoin transactions, which requires approximately 22 gigabytes of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
+DiamondHandsCoin Core is the original DiamondHandsCoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of DiamondHandsCoin transactions, which requires approximately 22 gigabytes of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download Hubucoin Core, visit [hubucoin.org](https://hubucoin.org/).
+To download DiamondHandsCoin Core, visit [diamondhandscoin.org](https://diamondhandscoin.org/).
 
 Running
 ---------------------
-The following are some helpful notes on how to run Hubucoin Core on your native platform.
+The following are some helpful notes on how to run DiamondHandsCoin Core on your native platform.
 
 ### Unix
 
 Unpack the files into a directory and run:
 
-- `bin/hubucoin-qt` (GUI) or
-- `bin/hubucoind` (headless)
+- `bin/diamondhandscoin-qt` (GUI) or
+- `bin/diamondhandscoind` (headless)
 
 ### Windows
 
-Unpack the files into a directory, and then run hubucoin-qt.exe.
+Unpack the files into a directory, and then run diamondhandscoin-qt.exe.
 
 ### macOS
 
-Drag Hubucoin Core to your applications folder, and then run Hubucoin Core.
+Drag DiamondHandsCoin Core to your applications folder, and then run DiamondHandsCoin Core.
 
 ### Need Help?
 
-* See the documentation at the [Hubucoin Wiki](https://hubucoin.info/)
+* See the documentation at the [DiamondHandsCoin Wiki](https://diamondhandscoin.info/)
 for help and more information.
-* Ask for help on [#hubucoin](http://webchat.freenode.net?channels=hubucoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=hubucoin).
-* Ask for help on the [HubucoinTalk](https://hubucointalk.io/) forums, in the [Technical Support section](https://hubucointalk.io/c/technical-support).
+* Ask for help on [#diamondhandscoin](http://webchat.freenode.net?channels=diamondhandscoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=diamondhandscoin).
+* Ask for help on the [DiamondHandsCoinTalk](https://diamondhandscointalk.io/) forums, in the [Technical Support section](https://diamondhandscointalk.io/c/technical-support).
 
 Building
 ---------------------
-The following are developer notes on how to build Hubucoin Core on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+The following are developer notes on how to build DiamondHandsCoin Core on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
 - [Dependencies](dependencies.md)
 - [macOS Build Notes](build-osx.md)
@@ -48,7 +48,7 @@ The following are developer notes on how to build Hubucoin Core on your native p
 
 Development
 ---------------------
-The Hubucoin repo's [root README](/README.md) contains relevant information on the development process and automated testing.
+The DiamondHandsCoin repo's [root README](/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Productivity Notes](productivity.md)
@@ -64,8 +64,8 @@ The Hubucoin repo's [root README](/README.md) contains relevant information on t
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [HubucoinTalk](https://hubucointalk.io/) forums.
-* Discuss general Hubucoin development on #hubucoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=hubucoin-dev.
+* Discuss on the [DiamondHandsCoinTalk](https://diamondhandscointalk.io/) forums.
+* Discuss general DiamondHandsCoin development on #diamondhandscoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=diamondhandscoin-dev.
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)

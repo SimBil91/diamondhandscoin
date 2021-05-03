@@ -66,12 +66,12 @@
         <translation>Mottager adresser</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dette er dine Hubucoin adresser for å sende  å sende betalinger. Husk å sjekke beløp og mottager adresser før du sender mynter.</translation>
+        <source>These are your DiamondHandsCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dette er dine DiamondHandsCoin adresser for å sende  å sende betalinger. Husk å sjekke beløp og mottager adresser før du sender mynter.</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dette er dine Hubucoin adresse for å motta betalinger. Det er anbefalt å bruke en ny mottager adresse for hver transaksjon.</translation>
+        <source>These are your DiamondHandsCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Dette er dine DiamondHandsCoin adresse for å motta betalinger. Det er anbefalt å bruke en ny mottager adresse for hver transaksjon.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -188,8 +188,8 @@
         <translation>Lommeboken er kryptert</translation>
     </message>
     <message>
-        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your hubucoins from being stolen by malware infecting your computer.</source>
-        <translation>Lommeboken din er nå kryptert. Husk at kryptering ikke er tilstrekkelig for å beskytte dine hubucoin i lommeboken fra å bli stjålet av skadelig programvare som har infisert maskinen din.</translation>
+        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your diamondhandscoins from being stolen by malware infecting your computer.</source>
+        <translation>Lommeboken din er nå kryptert. Husk at kryptering ikke er tilstrekkelig for å beskytte dine diamondhandscoin i lommeboken fra å bli stjålet av skadelig programvare som har infisert maskinen din.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -342,8 +342,8 @@
         <translation>Proxy er &lt;b&gt;slått på&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Hubucoin address</source>
-        <translation>Send mynter til en Hubucoin adresse</translation>
+        <source>Send coins to a DiamondHandsCoin address</source>
+        <translation>Send mynter til en DiamondHandsCoin adresse</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -366,8 +366,8 @@
         <translation>&amp;Verifiser meldingen...</translation>
     </message>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -390,12 +390,12 @@
         <translation>Krypter de private nøklene som tilhører lommeboken din</translation>
     </message>
     <message>
-        <source>Sign messages with your Hubucoin addresses to prove you own them</source>
-        <translation>Signer meldingene med Hubucoin adresse for å bevise at diu eier dem</translation>
+        <source>Sign messages with your DiamondHandsCoin addresses to prove you own them</source>
+        <translation>Signer meldingene med DiamondHandsCoin adresse for å bevise at diu eier dem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Hubucoin addresses</source>
-        <translation>Verifiser meldinger for å sikre at de ble signert med en angitt Hubucoin adresse</translation>
+        <source>Verify messages to ensure they were signed with specified DiamondHandsCoin addresses</source>
+        <translation>Verifiser meldinger for å sikre at de ble signert med en angitt DiamondHandsCoin adresse</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -414,8 +414,8 @@
         <translation>Hjelpelinje for fliker</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and hubucoin: URIs)</source>
-        <translation>Be om betalinger (genererer QR-koder og hubucoin-URIer)</translation>
+        <source>Request payments (generates QR codes and diamondhandscoin: URIs)</source>
+        <translation>Be om betalinger (genererer QR-koder og diamondhandscoin-URIer)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -426,16 +426,16 @@
         <translation>Vis lista over brukte mottakeradresser og merkelapper</translation>
     </message>
     <message>
-        <source>Open a hubucoin: URI or payment request</source>
-        <translation>Åpne en hubucoin: URI eller betalingsforespørsel</translation>
+        <source>Open a diamondhandscoin: URI or payment request</source>
+        <translation>Åpne en diamondhandscoin: URI eller betalingsforespørsel</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Kommandolinjealternativer</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Hubucoin network</source>
-        <translation><numerusform>%n aktiv tilkobling til Hubucoin nettverket</numerusform><numerusform>%n aktive tilkoblinger til Hubucoin nettverket</numerusform></translation>
+        <source>%n active connection(s) to DiamondHandsCoin network</source>
+        <translation><numerusform>%n aktiv tilkobling til DiamondHandsCoin nettverket</numerusform><numerusform>%n aktive tilkoblinger til DiamondHandsCoin nettverket</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -486,8 +486,8 @@
         <translation>&amp;Mottaker adresser</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Hubucoin command-line options</source>
-        <translation>Vis %1-hjelpemeldingen for å få en liste over mulige Hubucoin-kommandolinjealternativer</translation>
+        <source>Show the %1 help message to get a list with possible DiamondHandsCoin command-line options</source>
+        <translation>Vis %1-hjelpemeldingen for å få en liste over mulige DiamondHandsCoin-kommandolinjealternativer</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -593,8 +593,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>Error</source>

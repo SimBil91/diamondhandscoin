@@ -13,7 +13,7 @@
 - (NSString *)__bundleIdentifier
 {
     if (self == [NSBundle mainBundle]) {
-        return @"org.hubucoin.Hubucoin-Qt";
+        return @"org.diamondhandscoin.DiamondHandsCoin-Qt";
     } else {
         return [self __bundleIdentifier];
     }

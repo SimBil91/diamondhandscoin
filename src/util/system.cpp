@@ -73,7 +73,7 @@
 // Application startup time (used for uptime calculation)
 const int64_t nStartupTime = GetTime();
 
-const char * const BITCOIN_CONF_FILENAME = "hubucoin.conf";
+const char * const BITCOIN_CONF_FILENAME = "diamondhandscoin.conf";
 
 ArgsManager gArgs;
 
@@ -661,7 +661,7 @@ static std::string FormatException(const std::exception* pex, const char* pszThr
     char pszModule[MAX_PATH] = "";
     GetModuleFileNameA(nullptr, pszModule, sizeof(pszModule));
 #else
-    const char* pszModule = "hubucoin";
+    const char* pszModule = "diamondhandscoin";
 #endif
     if (pex)
         return strprintf(
@@ -686,7 +686,7 @@ fs::path GetDefaultDataDir()
     // Unix: ~/.bitcoin
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "Hubucoin";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "DiamondHandsCoin";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -696,10 +696,10 @@ fs::path GetDefaultDataDir()
         pathRet = fs::path(pszHome);
 #ifdef MAC_OSX
     // Mac
-    return pathRet / "Library/Application Support/Hubucoin";
+    return pathRet / "Library/Application Support/DiamondHandsCoin";
 #else
     // Unix
-    return pathRet / ".hubucoin";
+    return pathRet / ".diamondhandscoin";
 #endif
 #endif
 }

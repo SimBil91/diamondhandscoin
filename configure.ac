@@ -8,18 +8,18 @@ define(_CLIENT_VERSION_RC, 0)
 define(_CLIENT_VERSION_IS_RELEASE, true)
 define(_COPYRIGHT_YEAR, 2020)
 define(_COPYRIGHT_HOLDERS,[The %s developers])
-define(_COPYRIGHT_HOLDERS_SUBSTITUTION,[[Hubucoin Core]])
-AC_INIT([Hubucoin Core],m4_join([.], _CLIENT_VERSION_MAJOR, _CLIENT_VERSION_MINOR, _CLIENT_VERSION_REVISION, m4_if(_CLIENT_VERSION_BUILD, [0], [], _CLIENT_VERSION_BUILD))m4_if(_CLIENT_VERSION_RC, [0], [], [rc]_CLIENT_VERSION_RC),[https://github.com/hubucoin-project/hubucoin/issues],[hubucoin],[https://hubucoin.org/])
+define(_COPYRIGHT_HOLDERS_SUBSTITUTION,[[DiamondHandsCoin Core]])
+AC_INIT([DiamondHandsCoin Core],m4_join([.], _CLIENT_VERSION_MAJOR, _CLIENT_VERSION_MINOR, _CLIENT_VERSION_REVISION, m4_if(_CLIENT_VERSION_BUILD, [0], [], _CLIENT_VERSION_BUILD))m4_if(_CLIENT_VERSION_RC, [0], [], [rc]_CLIENT_VERSION_RC),[https://github.com/diamondhandscoin-project/diamondhandscoin/issues],[diamondhandscoin],[https://diamondhandscoin.org/])
 AC_CONFIG_SRCDIR([src/validation.cpp])
 AC_CONFIG_HEADERS([src/config/bitcoin-config.h])
 AC_CONFIG_AUX_DIR([build-aux])
 AC_CONFIG_MACRO_DIR([build-aux/m4])
 
-BITCOIN_DAEMON_NAME=hubucoind
-BITCOIN_GUI_NAME=hubucoin-qt
-BITCOIN_CLI_NAME=hubucoin-cli
-BITCOIN_TX_NAME=hubucoin-tx
-BITCOIN_WALLET_TOOL_NAME=hubucoin-wallet
+BITCOIN_DAEMON_NAME=diamondhandscoind
+BITCOIN_GUI_NAME=diamondhandscoin-qt
+BITCOIN_CLI_NAME=diamondhandscoin-cli
+BITCOIN_TX_NAME=diamondhandscoin-tx
+BITCOIN_WALLET_TOOL_NAME=diamondhandscoin-wallet
 
 dnl Unless the user specified ARFLAGS, force it to be cr
 AC_ARG_VAR(ARFLAGS, [Flags for the archiver, defaults to <cr> if not set])
@@ -426,7 +426,7 @@ CPPFLAGS="$CPPFLAGS -DHAVE_BUILD_INFO -D__STDC_FORMAT_MACROS"
 
 AC_ARG_WITH([utils],
   [AS_HELP_STRING([--with-utils],
-  [build hubucoin-cli hubucoin-tx hubucoin-wallet (default=yes)])],
+  [build diamondhandscoin-cli diamondhandscoin-tx diamondhandscoin-wallet (default=yes)])],
   [build_bitcoin_utils=$withval],
   [build_bitcoin_utils=yes])
 
@@ -456,7 +456,7 @@ AC_ARG_WITH([libs],
 
 AC_ARG_WITH([daemon],
   [AS_HELP_STRING([--with-daemon],
-  [build hubucoind daemon (default=yes)])],
+  [build diamondhandscoind daemon (default=yes)])],
   [build_bitcoind=$withval],
   [build_bitcoind=yes])
 
@@ -1253,19 +1253,19 @@ if test x$have_protobuf != xno &&
   BITCOIN_QT_PATH_PROGS([PROTOC], [protoc],$protoc_bin_path)
 fi
 
-AC_MSG_CHECKING([whether to build hubucoind])
+AC_MSG_CHECKING([whether to build diamondhandscoind])
 AM_CONDITIONAL([BUILD_BITCOIND], [test x$build_bitcoind = xyes])
 AC_MSG_RESULT($build_bitcoind)
 
-AC_MSG_CHECKING([whether to build hubucoin-cli])
+AC_MSG_CHECKING([whether to build diamondhandscoin-cli])
 AM_CONDITIONAL([BUILD_BITCOIN_CLI], [test x$build_bitcoin_cli = xyes])
 AC_MSG_RESULT($build_bitcoin_cli)
 
-AC_MSG_CHECKING([whether to build hubucoin-tx])
+AC_MSG_CHECKING([whether to build diamondhandscoin-tx])
 AM_CONDITIONAL([BUILD_BITCOIN_TX], [test x$build_bitcoin_tx = xyes])
 AC_MSG_RESULT($build_bitcoin_tx)
 
-AC_MSG_CHECKING([whether to build hubucoin-wallet])
+AC_MSG_CHECKING([whether to build diamondhandscoin-wallet])
 AM_CONDITIONAL([BUILD_BITCOIN_WALLET], [test x$build_bitcoin_wallet = xyes])
 AC_MSG_RESULT($build_bitcoin_wallet)
 
@@ -1366,7 +1366,7 @@ if test x$bitcoin_enable_qt != xno; then
     AC_MSG_WARN("xgettext is required to update qt translations")
   fi
 
-  AC_MSG_CHECKING([whether to build test_hubucoin-qt])
+  AC_MSG_CHECKING([whether to build test_diamondhandscoin-qt])
   if test x$use_gui_tests$bitcoin_enable_qt_test = xyesyes; then
     AC_MSG_RESULT([yes])
     BUILD_TEST_QT="yes"
@@ -1394,7 +1394,7 @@ fi
 
 AM_CONDITIONAL([ENABLE_ZMQ], [test "x$use_zmq" = "xyes"])
 
-AC_MSG_CHECKING([whether to build test_hubucoin])
+AC_MSG_CHECKING([whether to build test_diamondhandscoin])
 if test x$use_tests = xyes; then
   AC_MSG_RESULT([yes])
   BUILD_TEST="yes"

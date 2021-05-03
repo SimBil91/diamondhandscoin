@@ -118,8 +118,8 @@
         <translation>Recreans indicem frustorum in disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Hubucoin address</source>
-        <translation>Mitte nummos ad inscriptionem Hubucoin</translation>
+        <source>Send coins to a DiamondHandsCoin address</source>
+        <translation>Mitte nummos ad inscriptionem DiamondHandsCoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -142,8 +142,8 @@
         <translation>&amp;Verifica nuntium...</translation>
     </message>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -166,12 +166,12 @@
         <translation>Cifra claves privatas quae cassidili tui sunt</translation>
     </message>
     <message>
-        <source>Sign messages with your Hubucoin addresses to prove you own them</source>
-        <translation>Signa nuntios cum tuis inscriptionibus Hubucoin ut demonstres te eas possidere</translation>
+        <source>Sign messages with your DiamondHandsCoin addresses to prove you own them</source>
+        <translation>Signa nuntios cum tuis inscriptionibus DiamondHandsCoin ut demonstres te eas possidere</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Hubucoin addresses</source>
-        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus Hubucoin</translation>
+        <source>Verify messages to ensure they were signed with specified DiamondHandsCoin addresses</source>
+        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus DiamondHandsCoin</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -297,8 +297,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -346,8 +346,8 @@
         <translation>Cassidile</translation>
     </message>
     <message>
-        <source>Automatically open the Hubucoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Aperi per se portam clientis Hubucoin in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
+        <source>Automatically open the DiamondHandsCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Aperi per se portam clientis DiamondHandsCoin in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -429,8 +429,8 @@
         <translation>Schema</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Hubucoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete Hubucoin postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DiamondHandsCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete DiamondHandsCoin postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
     </message>
     <message>
         <source>Immature:</source>
@@ -679,8 +679,8 @@
         <translation>Copia signationem in latibulum systematis</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Hubucoin address</source>
-        <translation>Signa nuntium ut demonstres hanc inscriptionem Hubucoin a te possessa esse</translation>
+        <source>Sign the message to prove you own this DiamondHandsCoin address</source>
+        <translation>Signa nuntium ut demonstres hanc inscriptionem DiamondHandsCoin a te possessa esse</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -699,8 +699,8 @@
         <translation>&amp;Verifica Nuntium</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Hubucoin address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione Hubucoin</translation>
+        <source>Verify the message to ensure it was signed with the specified DiamondHandsCoin address</source>
+        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione DiamondHandsCoin</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -755,8 +755,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Hubucoin Core</source>
-        <translation>Hubucoin Nucleus</translation>
+        <source>DiamondHandsCoin Core</source>
+        <translation>DiamondHandsCoin Nucleus</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>

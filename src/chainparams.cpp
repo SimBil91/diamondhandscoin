@@ -119,10 +119,10 @@ public:
         // This is fine at runtime as we'll fall back to using them as a oneshot if they don't support the
         // service bits we want, but we should get them updated to support all service bits wanted by any
         // release ASAP to avoid it where possible.
-        //vSeeds.emplace_back("seed-a.hubucoin.loshan.co.uk");
+        //vSeeds.emplace_back("seed-a.diamondhandscoin.loshan.co.uk");
         //vSeeds.emplace_back("dnsseed.thrasher.io");
-        //vSeeds.emplace_back("dnsseed.hubucointools.com");
-        //vSeeds.emplace_back("dnsseed.hubucoinpool.org");
+        //vSeeds.emplace_back("dnsseed.diamondhandscointools.com");
+        //vSeeds.emplace_back("dnsseed.diamondhandscoinpool.org");
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,46);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,5);
@@ -214,8 +214,8 @@ public:
         //vFixedSeeds.clear();
         //vSeeds.clear();
         // nodes with support for servicebits filtering should be at the top
-        //vSeeds.emplace_back("testnet-seed.hubucointools.com");
-        //vSeeds.emplace_back("seed-b.hubucoin.loshan.co.uk");
+        //vSeeds.emplace_back("testnet-seed.diamondhandscointools.com");
+        //vSeeds.emplace_back("seed-b.diamondhandscoin.loshan.co.uk");
         //vSeeds.emplace_back("dnsseed-testnet.thrasher.io");
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,111);

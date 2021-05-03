@@ -33,7 +33,7 @@
 #include <memory>
 
 #if defined(NDEBUG)
-# error "Hubucoin cannot be compiled without assertions."
+# error "DiamondHandsCoin cannot be compiled without assertions."
 #endif
 
 /** Expiration time for orphan transactions in seconds */

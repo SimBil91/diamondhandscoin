@@ -29,16 +29,16 @@
   <string>????</string>
 
   <key>CFBundleExecutable</key>
-  <string>Hubucoin-Qt</string>
+  <string>DiamondHandsCoin-Qt</string>
   
   <key>CFBundleName</key>
-  <string>Hubucoin-Qt</string>
+  <string>DiamondHandsCoin-Qt</string>
 
   <key>LSHasLocalizedDisplayName</key>
   <true/>
 
   <key>CFBundleIdentifier</key>
-  <string>org.hubucoin.Hubucoin-Qt</string>
+  <string>org.diamondhandscoin.DiamondHandsCoin-Qt</string>
 
   <key>CFBundleURLTypes</key>
   <array>
@@ -46,10 +46,10 @@
       <key>CFBundleTypeRole</key>
       <string>Editor</string>
       <key>CFBundleURLName</key>
-      <string>org.hubucoin.HubucoinPayment</string>
+      <string>org.diamondhandscoin.DiamondHandsCoinPayment</string>
       <key>CFBundleURLSchemes</key>
       <array>
-        <string>hubucoin</string>
+        <string>diamondhandscoin</string>
       </array>
     </dict>
   </array>
@@ -58,9 +58,9 @@
   <array>
     <dict>
       <key>UTTypeIdentifier</key>
-      <string>org.hubucoin.paymentrequest</string>
+      <string>org.diamondhandscoin.paymentrequest</string>
       <key>UTTypeDescription</key>
-      <string>Hubucoin payment request</string>
+      <string>DiamondHandsCoin payment request</string>
       <key>UTTypeConformsTo</key>
       <array>
         <string>public.data</string>
@@ -68,10 +68,10 @@
       <key>UTTypeTagSpecification</key>
       <dict>
         <key>public.mime-type</key>
-        <string>application/x-hubucoin-payment-request</string>
+        <string>application/x-diamondhandscoin-payment-request</string>
         <key>public.filename-extension</key>
         <array>
-          <string>hubucoinpaymentrequest</string>
+          <string>diamondhandscoinpaymentrequest</string>
         </array>
       </dict>
     </dict>
@@ -84,7 +84,7 @@
       <string>Editor</string>
       <key>LSItemContentTypes</key>
       <array>
-        <string>org.hubucoin.paymentrequest</string>
+        <string>org.diamondhandscoin.paymentrequest</string>
       </array>
       <key>LSHandlerRank</key>
       <string>Owner</string>

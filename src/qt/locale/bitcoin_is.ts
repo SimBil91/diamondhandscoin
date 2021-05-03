@@ -62,12 +62,12 @@
         <translation>Færslugildi sem þiggja til sín</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Þetta eru Hubucoin færslugildin sem senda greiðslur. Skoðið ævinlega vel upphæðina og færslugildin sem þiggja greiðslur áður en mynt er send.</translation>
+        <source>These are your DiamondHandsCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Þetta eru DiamondHandsCoin færslugildin sem senda greiðslur. Skoðið ævinlega vel upphæðina og færslugildin sem þiggja greiðslur áður en mynt er send.</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Þetta eru Hubucoin færslugildin sem þiggja greiðslur. Mælt er með að nota aldrei sama færslugildið til að þiggja fleiri en eina greiðslu.</translation>
+        <source>These are your DiamondHandsCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Þetta eru DiamondHandsCoin færslugildin sem þiggja greiðslur. Mælt er með að nota aldrei sama færslugildið til að þiggja fleiri en eina greiðslu.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -322,8 +322,8 @@
         <translation>Endurraða blokkum á drifi...</translation>
     </message>
     <message>
-        <source>Send coins to a Hubucoin address</source>
-        <translation>Senda mynt í Hubucoin færslugildi</translation>
+        <source>Send coins to a DiamondHandsCoin address</source>
+        <translation>Senda mynt í DiamondHandsCoin færslugildi</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -346,8 +346,8 @@
         <translation>&amp;Yfirfara skilaboð...</translation>
     </message>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -370,12 +370,12 @@
         <translation>Dulkóða einkalyklana sem tilheyra veskinu þínu</translation>
     </message>
     <message>
-        <source>Sign messages with your Hubucoin addresses to prove you own them</source>
-        <translation>Kvitta undir skilaboð með Hubucoin færslugildunum þínum til að sanna að þú eigir þau</translation>
+        <source>Sign messages with your DiamondHandsCoin addresses to prove you own them</source>
+        <translation>Kvitta undir skilaboð með DiamondHandsCoin færslugildunum þínum til að sanna að þú eigir þau</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Hubucoin addresses</source>
-        <translation>Yfirfara skilaboð til að tryggja að kvittað hafi verið fyrir þau með tilteknum Hubucoin færslugildum</translation>
+        <source>Verify messages to ensure they were signed with specified DiamondHandsCoin addresses</source>
+        <translation>Yfirfara skilaboð til að tryggja að kvittað hafi verið fyrir þau með tilteknum DiamondHandsCoin færslugildum</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -394,8 +394,8 @@
         <translation>Tólaborð flipa</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and hubucoin: URIs)</source>
-        <translation>Óska eftir greiðslum (býr til QR kóða og hubucoin: URI)</translation>
+        <source>Request payments (generates QR codes and diamondhandscoin: URIs)</source>
+        <translation>Óska eftir greiðslum (býr til QR kóða og diamondhandscoin: URI)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -406,8 +406,8 @@
         <translation>Sýna færslugildi sem notuð hafa verið til að taka við mynt og merkingar þeirra</translation>
     </message>
     <message>
-        <source>Open a hubucoin: URI or payment request</source>
-        <translation>Opna hubucoin: URI eða greiðslubeiðni</translation>
+        <source>Open a diamondhandscoin: URI or payment request</source>
+        <translation>Opna diamondhandscoin: URI eða greiðslubeiðni</translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -446,8 +446,8 @@
         <translation>Uppfært</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Hubucoin command-line options</source>
-        <translation>Sýna %1 hjálparskilaboðin til að fá lista yfir valkosti Hubucoin aðgerðir í skipanalínu</translation>
+        <source>Show the %1 help message to get a list with possible DiamondHandsCoin command-line options</source>
+        <translation>Sýna %1 hjálparskilaboðin til að fá lista yfir valkosti DiamondHandsCoin aðgerðir í skipanalínu</translation>
     </message>
     <message>
         <source>%1 client</source>
@@ -516,8 +516,8 @@
         <translation>Veskið er &lt;b&gt;dulkóðað&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Hubucoin can no longer continue safely and will quit.</source>
-        <translation>Alvarleg villa átti sér stað. Hubucoin getur ekki haldið áfram með öruggum hætti og stoppar hér.</translation>
+        <source>A fatal error occurred. DiamondHandsCoin can no longer continue safely and will quit.</source>
+        <translation>Alvarleg villa átti sér stað. DiamondHandsCoin getur ekki haldið áfram með öruggum hætti og stoppar hér.</translation>
     </message>
 </context>
 <context>
@@ -630,8 +630,8 @@
         <translation>Breyta sendingarfærslugildi</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Hubucoin address.</source>
-        <translation>Færslugildið sem slegið var inn "%1" er ekki leyfilegt Hubucoin færslugildi.</translation>
+        <source>The entered address "%1" is not a valid DiamondHandsCoin address.</source>
+        <translation>Færslugildið sem slegið var inn "%1" er ekki leyfilegt DiamondHandsCoin færslugildi.</translation>
     </message>
     </context>
 <context>
@@ -643,8 +643,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>Error</source>

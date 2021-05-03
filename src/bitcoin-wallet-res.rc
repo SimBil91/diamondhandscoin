@@ -16,14 +16,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Hubucoin"
-            VALUE "FileDescription",    "hubucoin-wallet (CLI tool for " PACKAGE_NAME " wallets)"
+            VALUE "CompanyName",        "DiamondHandsCoin"
+            VALUE "FileDescription",    "diamondhandscoin-wallet (CLI tool for " PACKAGE_NAME " wallets)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "hubucoin-wallet"
+            VALUE "InternalName",       "diamondhandscoin-wallet"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "hubucoin-wallet.exe"
-            VALUE "ProductName",        "hubucoin-wallet"
+            VALUE "OriginalFilename",   "diamondhandscoin-wallet.exe"
+            VALUE "ProductName",        "diamondhandscoin-wallet"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

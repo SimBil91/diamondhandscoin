@@ -87,12 +87,12 @@ over the network (`CBlock`, `CTransaction`, etc, along with the network-level
 wrappers for them, `msg_block`, `msg_tx`, etc).
 
 - P2P tests have two threads. One thread handles all network communication
-with the hubucoind(s) being tested in a callback-based event loop; the other
+with the diamondhandscoind(s) being tested in a callback-based event loop; the other
 implements the test logic.
 
-- `P2PConnection` is the class used to connect to a hubucoind.  `P2PInterface`
+- `P2PConnection` is the class used to connect to a diamondhandscoind.  `P2PInterface`
 contains the higher level logic for processing P2P payloads and connecting to
-the Hubucoin Core node application logic. For custom behaviour, subclass the
+the DiamondHandsCoin Core node application logic. For custom behaviour, subclass the
 P2PInterface object and override the callback methods.
 
 - Can be used to write tests where specific P2P protocol behavior is tested.
@@ -110,7 +110,7 @@ Base class for functional tests.
 Generally useful functions.
 
 #### [test_framework/mininode.py](test_framework/mininode.py)
-Basic code to support P2P connectivity to a hubucoind.
+Basic code to support P2P connectivity to a diamondhandscoind.
 
 #### [test_framework/script.py](test_framework/script.py)
 Utilities for manipulating transaction scripts (originally from python-bitcoinlib)

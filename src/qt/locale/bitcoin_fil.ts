@@ -66,12 +66,12 @@
         <translation>Address na tatanggap</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ito ang iyong mga Hubucoin addresses para sa pagpapadala ng bayad. Laging suriin ang halaga at ang address na tatanggap bago magpadala ng coins.</translation>
+        <source>These are your DiamondHandsCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ito ang iyong mga DiamondHandsCoin addresses para sa pagpapadala ng bayad. Laging suriin ang halaga at ang address na tatanggap bago magpadala ng coins.</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Ito ang iyong mga Hubucoin addresses para sa pagtanggap ng bayad. Inirerekomenda na gumamit ng bagong tanggapang address sa bawat transaksyon.</translation>
+        <source>These are your DiamondHandsCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Ito ang iyong mga DiamondHandsCoin addresses para sa pagtanggap ng bayad. Inirerekomenda na gumamit ng bagong tanggapang address sa bawat transaksyon.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>Na-encrypt ang walet.</translation>
     </message>
     <message>
-        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your hubucoins from being stolen by malware infecting your computer.</source>
-        <translation>Na-encrypt na ang iyong walet. Tandaan na ang pag-encrypt ng iyong walet ay hindi ganap na proteksyon sa iyong hubucoins na maaaring manakaw sa pamamagitan ng malware na makahawa sa iyong computer.</translation>
+        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your diamondhandscoins from being stolen by malware infecting your computer.</source>
+        <translation>Na-encrypt na ang iyong walet. Tandaan na ang pag-encrypt ng iyong walet ay hindi ganap na proteksyon sa iyong diamondhandscoins na maaaring manakaw sa pamamagitan ng malware na makahawa sa iyong computer.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -318,8 +318,8 @@
         <translation>Ang panghalili ay pinagana: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Hubucoin address</source>
-        <translation>Ipadala ang coins sa Hubucoin address</translation>
+        <source>Send coins to a DiamondHandsCoin address</source>
+        <translation>Ipadala ang coins sa DiamondHandsCoin address</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -342,8 +342,8 @@
         <translation>Tiyakin ang katotohanan ng mensahe...</translation>
     </message>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -366,12 +366,12 @@
         <translation>I-encrypt ang private keys ng iyong walet</translation>
     </message>
     <message>
-        <source>Sign messages with your Hubucoin addresses to prove you own them</source>
-        <translation>Pirmahan ang mga mensahe gamit ang iyong mga Hubucoin address upang mapatunayang ikaw ang may-ari nito</translation>
+        <source>Sign messages with your DiamondHandsCoin addresses to prove you own them</source>
+        <translation>Pirmahan ang mga mensahe gamit ang iyong mga DiamondHandsCoin address upang mapatunayang ikaw ang may-ari nito</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Hubucoin addresses</source>
-        <translation>Tiyakin ang katotohanan ng mga mensahe para siguruhing ang mga ito ay pinirmahan gamit ang tinukoy na mga Hubucoin addresses</translation>
+        <source>Verify messages to ensure they were signed with specified DiamondHandsCoin addresses</source>
+        <translation>Tiyakin ang katotohanan ng mga mensahe para siguruhing ang mga ito ay pinirmahan gamit ang tinukoy na mga DiamondHandsCoin addresses</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -390,8 +390,8 @@
         <translation>Tabs toolbar</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and hubucoin: URIs)</source>
-        <translation>Humiling ng bayad (lumilikha ng QR codes at hubucoin: URIs)</translation>
+        <source>Request payments (generates QR codes and diamondhandscoin: URIs)</source>
+        <translation>Humiling ng bayad (lumilikha ng QR codes at diamondhandscoin: URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -402,8 +402,8 @@
         <translation>Ipakita ang talaan ng mga gamit na address at label para sa pagtanggap</translation>
     </message>
     <message>
-        <source>Open a hubucoin: URI or payment request</source>
-        <translation>Buksan ang hubucoin: URI o kahilingan ng bayad</translation>
+        <source>Open a diamondhandscoin: URI or payment request</source>
+        <translation>Buksan ang diamondhandscoin: URI o kahilingan ng bayad</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -466,8 +466,8 @@
         <translation>Isara ang walet</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Hubucoin command-line options</source>
-        <translation>Ipakita sa %1 ang tulong na mensahe upang makuha ang talaan ng mga posibleng opsyon ng Hubucoin command-line</translation>
+        <source>Show the %1 help message to get a list with possible DiamondHandsCoin command-line options</source>
+        <translation>Ipakita sa %1 ang tulong na mensahe upang makuha ang talaan ng mga posibleng opsyon ng DiamondHandsCoin command-line</translation>
     </message>
     <message>
         <source>default wallet</source>
@@ -570,8 +570,8 @@
         <translation>Walet ay na-encrypt at kasalukuyang naka-lock.</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Hubucoin can no longer continue safely and will quit.</source>
-        <translation>May nangyaring malubhang kamalian. Hindi na kayang magpatuloy ng ligtas ang Hubucoin at ito ay hihinto na.</translation>
+        <source>A fatal error occurred. DiamondHandsCoin can no longer continue safely and will quit.</source>
+        <translation>May nangyaring malubhang kamalian. Hindi na kayang magpatuloy ng ligtas ang DiamondHandsCoin at ito ay hihinto na.</translation>
     </message>
 </context>
 <context>
@@ -716,8 +716,8 @@
         <translation>Baguhin ang address para sa pagpapadala</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Hubucoin address.</source>
-        <translation>Ang address na in-enter "%1" ay hindi isang wastong Hubucoin address.</translation>
+        <source>The entered address "%1" is not a valid DiamondHandsCoin address.</source>
+        <translation>Ang address na in-enter "%1" ay hindi isang wastong DiamondHandsCoin address.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -805,8 +805,8 @@
         <translation>Gamitin ang pasadyang data directory:</translation>
     </message>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -817,8 +817,8 @@
         <translation>Humigit-kumulang na %1 GB na data ay maiimbak sa direktoryong ito.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Hubucoin block chain.</source>
-        <translation>%1 ay mag-do-download at magiimbak ng kopya ng Hubucoin blockchain.</translation>
+        <source>%1 will download and store a copy of the DiamondHandsCoin block chain.</source>
+        <translation>%1 ay mag-do-download at magiimbak ng kopya ng DiamondHandsCoin blockchain.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -840,12 +840,12 @@
 <context>
     <name>ModalOverlay</name>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the hubucoin network, as detailed below.</source>
-        <translation>Ang mga bagong transaksyon ay hindi pa makikita kaya ang balanse ng iyong walet ay maaaring hindi tama. Ang impormasyong ito ay maiitama pagkatapos ma-synchronize ng iyong walet sa hubucoin network, ayon sa ibaba.</translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the diamondhandscoin network, as detailed below.</source>
+        <translation>Ang mga bagong transaksyon ay hindi pa makikita kaya ang balanse ng iyong walet ay maaaring hindi tama. Ang impormasyong ito ay maiitama pagkatapos ma-synchronize ng iyong walet sa diamondhandscoin network, ayon sa ibaba.</translation>
     </message>
     <message>
-        <source>Attempting to spend hubucoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>Ang pagtangkang gastusin ang mga hubucoin na apektado ng mga transaksyon na hindi pa naipapakita ay hindi tatanggapin ng network.</translation>
+        <source>Attempting to spend diamondhandscoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <translation>Ang pagtangkang gastusin ang mga diamondhandscoin na apektado ng mga transaksyon na hindi pa naipapakita ay hindi tatanggapin ng network.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -1014,8 +1014,8 @@
         <translation>Gastusin ang sukli na hindi pa nakumpirma</translation>
     </message>
     <message>
-        <source>Automatically open the Hubucoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Kusang buksan ang Hubucoin client port sa router. Gumagana lamang ito kapag ang iyong router ay sumusuporta ng UPnP at ito ay pinagana.</translation>
+        <source>Automatically open the DiamondHandsCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Kusang buksan ang DiamondHandsCoin client port sa router. Gumagana lamang ito kapag ang iyong router ay sumusuporta ng UPnP at ito ay pinagana.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1030,8 +1030,8 @@
         <translation>Ipahintulot ang mga papasok na koneksyon</translation>
     </message>
     <message>
-        <source>Connect to the Hubucoin network through a SOCKS5 proxy.</source>
-        <translation>Kumunekta sa Hubucoin network sa pamamagitan ng SOCKS5 proxy.</translation>
+        <source>Connect to the DiamondHandsCoin network through a SOCKS5 proxy.</source>
+        <translation>Kumunekta sa DiamondHandsCoin network sa pamamagitan ng SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1066,8 +1066,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Hubucoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Kumunekta sa Hubucoin network sa pamamagitan ng hiwalay na SOCKS5 proxy para sa mga tagong serbisyo ng Tor.</translation>
+        <source>Connect to the DiamondHandsCoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Kumunekta sa DiamondHandsCoin network sa pamamagitan ng hiwalay na SOCKS5 proxy para sa mga tagong serbisyo ng Tor.</translation>
     </message>
     <message>
         <source>&amp;Window</source>

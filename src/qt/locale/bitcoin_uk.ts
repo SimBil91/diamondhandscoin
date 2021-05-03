@@ -66,12 +66,12 @@
         <translation>Адреса отримання</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Це ваші адреси Hubucoin для надсилання платежів. Завжди перевіряйте суму та адресу одержувача перед відправленням монет.</translation>
+        <source>These are your DiamondHandsCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Це ваші адреси DiamondHandsCoin для надсилання платежів. Завжди перевіряйте суму та адресу одержувача перед відправленням монет.</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Це ваші адреси Hubucoin для отримання платежів. Для кожної транзакції рекомендується використовувати нову адресу одержувача.</translation>
+        <source>These are your DiamondHandsCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Це ваші адреси DiamondHandsCoin для отримання платежів. Для кожної транзакції рекомендується використовувати нову адресу одержувача.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -188,7 +188,7 @@
         <translation>Гаманець зашифровано</translation>
     </message>
     <message>
-        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your hubucoins from being stolen by malware infecting your computer.</source>
+        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your diamondhandscoins from being stolen by malware infecting your computer.</source>
         <translation>Ваш гаманець зашифровано. Пам'ятайте, шифрування гаманця не гарантує абсолютний захист біткоінів від крадіжки шкідливим програмним забезпеченням, яке вразило комп'ютер.</translation>
     </message>
     <message>
@@ -342,7 +342,7 @@
         <translation>Проксі &lt;b&gt;увімкнено&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Hubucoin address</source>
+        <source>Send coins to a DiamondHandsCoin address</source>
         <translation>Відправити монети на вказану адресу</translation>
     </message>
     <message>
@@ -366,8 +366,8 @@
         <translation>П&amp;еревірити повідомлення...</translation>
     </message>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -390,12 +390,12 @@
         <translation>Зашифрувати закриті ключі, що знаходяться у вашому гаманці</translation>
     </message>
     <message>
-        <source>Sign messages with your Hubucoin addresses to prove you own them</source>
-        <translation>Підтвердіть, що Ви є власником повідомлення підписавши його Вашою Hubucoin-адресою </translation>
+        <source>Sign messages with your DiamondHandsCoin addresses to prove you own them</source>
+        <translation>Підтвердіть, що Ви є власником повідомлення підписавши його Вашою DiamondHandsCoin-адресою </translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Hubucoin addresses</source>
-        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною Hubucoin-адресою</translation>
+        <source>Verify messages to ensure they were signed with specified DiamondHandsCoin addresses</source>
+        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною DiamondHandsCoin-адресою</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -414,8 +414,8 @@
         <translation>Панель вкладок</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and hubucoin: URIs)</source>
-        <translation>Створити запит платежу (генерує QR-код та hubucoin: URI)</translation>
+        <source>Request payments (generates QR codes and diamondhandscoin: URIs)</source>
+        <translation>Створити запит платежу (генерує QR-код та diamondhandscoin: URI)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -426,16 +426,16 @@
         <translation>Показати список адрес і міток, що були використані для отримання</translation>
     </message>
     <message>
-        <source>Open a hubucoin: URI or payment request</source>
-        <translation>Відкрити hubucoin: URI чи запит платежу</translation>
+        <source>Open a diamondhandscoin: URI or payment request</source>
+        <translation>Відкрити diamondhandscoin: URI чи запит платежу</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>П&amp;араметри командного рядка</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Hubucoin network</source>
-        <translation><numerusform>%n активне з'єднання з мережею Hubucoin</numerusform><numerusform>%n активні з'єднання з мережею Hubucoin</numerusform><numerusform>%n активних з'єднань з мережею Hubucoin</numerusform><numerusform>%n активних з'єднань з мережею Hubucoin</numerusform></translation>
+        <source>%n active connection(s) to DiamondHandsCoin network</source>
+        <translation><numerusform>%n активне з'єднання з мережею DiamondHandsCoin</numerusform><numerusform>%n активні з'єднання з мережею DiamondHandsCoin</numerusform><numerusform>%n активних з'єднань з мережею DiamondHandsCoin</numerusform><numerusform>%n активних з'єднань з мережею DiamondHandsCoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -486,7 +486,7 @@
         <translation>&amp;Адреси для отримання</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Hubucoin command-line options</source>
+        <source>Show the %1 help message to get a list with possible DiamondHandsCoin command-line options</source>
         <translation>Показати довідку %1 для отримання переліку можливих параметрів командного рядка.</translation>
     </message>
     <message>
@@ -590,7 +590,7 @@
         <translation>&lt;b&gt;Зашифрований&lt;/b&gt; гаманець &lt;b&gt;заблоковано&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Hubucoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. DiamondHandsCoin can no longer continue safely and will quit.</source>
         <translation>Сталася фатальна помилка. Гаманець буде закрито.</translation>
     </message>
 </context>
@@ -776,8 +776,8 @@
         <translation>Редагувати адресу для відправлення</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Hubucoin address.</source>
-        <translation>Введена адреса "%1" не є адресою в мережі Hubucoin.</translation>
+        <source>The entered address "%1" is not a valid DiamondHandsCoin address.</source>
+        <translation>Введена адреса "%1" не є адресою в мережі DiamondHandsCoin.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -869,8 +869,8 @@
         <translation>Використовувати свій каталог даних:</translation>
     </message>
     <message>
-        <source>Hubucoin</source>
-        <translation>Hubucoin</translation>
+        <source>DiamondHandsCoin</source>
+        <translation>DiamondHandsCoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -881,7 +881,7 @@
         <translation>Близько %1 Гб даних буде збережено в цьому каталозі.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Hubucoin block chain.</source>
+        <source>%1 will download and store a copy of the DiamondHandsCoin block chain.</source>
         <translation>%1 буде завантажувати та зберігати копію ланцюжка блоків біткінів.</translation>
     </message>
     <message>
@@ -912,11 +912,11 @@
         <translation>Форма</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the hubucoin network, as detailed below.</source>
-        <translation>Нещодавні транзакції ще не відображаються, тому баланс вашого гаманця може бути неточним. Ця інформація буде вірною після того, як ваш гаманець завершить синхронізацію з мережею hubucoin, врахровуйте показники нижче.</translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the diamondhandscoin network, as detailed below.</source>
+        <translation>Нещодавні транзакції ще не відображаються, тому баланс вашого гаманця може бути неточним. Ця інформація буде вірною після того, як ваш гаманець завершить синхронізацію з мережею diamondhandscoin, врахровуйте показники нижче.</translation>
     </message>
     <message>
-        <source>Attempting to spend hubucoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <source>Attempting to spend diamondhandscoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
         <translation>Спроба відправити біткоїни, які ще не відображаються, не буде прийнята мережею.</translation>
     </message>
     <message>
@@ -1086,7 +1086,7 @@
         <translation>&amp;Витрачати непідтверджену решту</translation>
     </message>
     <message>
-        <source>Automatically open the Hubucoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the DiamondHandsCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Автоматично відкривати порт для клієнту біткоін на роутері. Працює лише якщо ваш роутер підтримує UPnP і ця функція увімкнена.</translation>
     </message>
     <message>
@@ -1102,8 +1102,8 @@
         <translation>Дозволити вхідні з'єднання</translation>
     </message>
     <message>
-        <source>Connect to the Hubucoin network through a SOCKS5 proxy.</source>
-        <translation>Підключення до мережі Hubucoin через SOCKS5 проксі.</translation>
+        <source>Connect to the DiamondHandsCoin network through a SOCKS5 proxy.</source>
+        <translation>Підключення до мережі DiamondHandsCoin через SOCKS5 проксі.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1138,8 +1138,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Hubucoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Підключатися до мережі Hubucoin через окремий SOCKS5 проксі для прихованих сервісів Tor.</translation>
+        <source>Connect to the DiamondHandsCoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Підключатися до мережі DiamondHandsCoin через окремий SOCKS5 проксі для прихованих сервісів Tor.</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1249,8 +1249,8 @@
         <translation>Форма</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Hubucoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Показана інформація вже може бути застарілою. Ваш гаманець буде автоматично синхронізовано з мережею Hubucoin після встановлення підключення, але цей процес ще не завершено.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DiamondHandsCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Показана інформація вже може бути застарілою. Ваш гаманець буде автоматично синхронізовано з мережею DiamondHandsCoin після встановлення підключення, але цей процес ще не завершено.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1324,16 +1324,16 @@
         <translation>Помилка запиту платежу</translation>
     </message>
     <message>
-        <source>Cannot start hubucoin: click-to-pay handler</source>
-        <translation>Не вдається запустити hubucoin: обробник клацни-плати</translation>
+        <source>Cannot start diamondhandscoin: click-to-pay handler</source>
+        <translation>Не вдається запустити diamondhandscoin: обробник клацни-плати</translation>
     </message>
     <message>
         <source>URI handling</source>
         <translation>Обробка URI</translation>
     </message>
     <message>
-        <source>'hubucoin://' is not a valid URI. Use 'hubucoin:' instead.</source>
-        <translation>'hubucoin://' не вірний URI. Використовуйте 'hubucoin:'.</translation>
+        <source>'diamondhandscoin://' is not a valid URI. Use 'diamondhandscoin:' instead.</source>
+        <translation>'diamondhandscoin://' не вірний URI. Використовуйте 'diamondhandscoin:'.</translation>
     </message>
     <message>
         <source>You are using a BIP70 URL which will be unsupported in the future.</source>
@@ -1352,8 +1352,8 @@
         <translation>Помилка в адресі платежу %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Hubucoin address or malformed URI parameters.</source>
-        <translation>Неможливо обробити URI! Причиною цього може бути некоректна Hubucoin-адреса або неправильні параметри URI.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid DiamondHandsCoin address or malformed URI parameters.</source>
+        <translation>Неможливо обробити URI! Причиною цього може бути некоректна DiamondHandsCoin-адреса або неправильні параметри URI.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1456,8 +1456,8 @@
         <translation>Кількість</translation>
     </message>
     <message>
-        <source>Enter a Hubucoin address (e.g. %1)</source>
-        <translation>Введіть адресу Hubucoin (наприклад %1)</translation>
+        <source>Enter a DiamondHandsCoin address (e.g. %1)</source>
+        <translation>Введіть адресу DiamondHandsCoin (наприклад %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1912,8 +1912,8 @@
         <translation>&amp;Повідомлення:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Hubucoin network.</source>
-        <translation>Необов'язкове повідомлення на додаток до запиту платежу, котре буде показане під час відкриття запиту. Примітка: Це повідомлення не буде відправлено з платежем через мережу Hubucoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the DiamondHandsCoin network.</source>
+        <translation>Необов'язкове повідомлення на додаток до запиту платежу, котре буде показане під час відкриття запиту. Примітка: Це повідомлення не буде відправлено з платежем через мережу DiamondHandsCoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2193,8 +2193,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>Пил:</translation>
     </message>
     <message>
-        <source>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for hubucoin transactions than the network can process.</source>
-        <translation>Якщо обсяг транзакцій менше, ніж простір у блоках, майнери, а також вузли ретрансляції можуть стягувати мінімальну плату. Сплата лише цієї мінімальної суми може призвести до ніколи не підтверджуваної транзакції, коли буде більше попиту на hubucoin-транзакції, ніж мережа може обробити.</translation>
+        <source>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for diamondhandscoin transactions than the network can process.</source>
+        <translation>Якщо обсяг транзакцій менше, ніж простір у блоках, майнери, а також вузли ретрансляції можуть стягувати мінімальну плату. Сплата лише цієї мінімальної суми може призвести до ніколи не підтверджуваної транзакції, коли буде більше попиту на diamondhandscoin-транзакції, ніж мережа може обробити.</translation>
     </message>
     <message>
         <source>A too low fee might result in a never confirming transaction (read the tooltip)</source>
@@ -2341,8 +2341,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation><numerusform>Очікуваний початок підтвердження через %n блок.</numerusform><numerusform>Очікуваний початок підтвердження протягом %n блоків.</numerusform><numerusform>Очікуваний початок підтвердження протягом %n блоків.</numerusform><numerusform>Очікуваний початок підтвердження протягом %n блоків.</numerusform></translation>
     </message>
     <message>
-        <source>Warning: Invalid Hubucoin address</source>
-        <translation>Увага: Неприпустима Hubucoin-адреса.</translation>
+        <source>Warning: Invalid DiamondHandsCoin address</source>
+        <translation>Увага: Неприпустима DiamondHandsCoin-адреса.</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2384,8 +2384,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>Це звичайний платіж.</translation>
     </message>
     <message>
-        <source>The Hubucoin address to send the payment to</source>
-        <translation>Адреса Hubucoin для відправлення платежу</translation>
+        <source>The DiamondHandsCoin address to send the payment to</source>
+        <translation>Адреса DiamondHandsCoin для відправлення платежу</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2404,7 +2404,7 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>Видалити цей запис</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less hubucoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less diamondhandscoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
         <translation>Комісію буде знято зі вказаної суми. До отримувача надійде менше біткоінів, ніж було вказано в полі кількості. Якщо ж отримувачів декілька - комісію буде розподілено між ними.</translation>
     </message>
     <message>
@@ -2432,8 +2432,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>Введіть мітку для цієї адреси для додавання її в список використаних адрес</translation>
     </message>
     <message>
-        <source>A message that was attached to the hubucoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Hubucoin network.</source>
-        <translation>Повідомлення, що було додане до hubucoin:URI та буде збережено разом з транзакцією для довідки. Примітка: Це повідомлення не буде відправлено в мережу Hubucoin.</translation>
+        <source>A message that was attached to the diamondhandscoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the DiamondHandsCoin network.</source>
+        <translation>Повідомлення, що було додане до diamondhandscoin:URI та буде збережено разом з транзакцією для довідки. Примітка: Це повідомлення не буде відправлено в мережу DiamondHandsCoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2477,12 +2477,12 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>&amp;Підписати повідомлення</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive hubucoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <source>You can sign messages/agreements with your addresses to prove you can receive diamondhandscoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
         <translation>Ви можете підписувати повідомлення/угоди своїми адресами, щоб довести можливість отримання біткоінів, що будуть надіслані на них. Остерігайтеся підписувати будь-що нечітке чи неочікуване, так як за допомогою фішинг-атаки вас можуть спробувати ввести в оману для отримання вашого підпису під чужими словами. Підписуйте лише чіткі твердження, з якими ви повністю згодні.</translation>
     </message>
     <message>
-        <source>The Hubucoin address to sign the message with</source>
-        <translation>Адреса Hubucoin для підпису цього повідомлення</translation>
+        <source>The DiamondHandsCoin address to sign the message with</source>
+        <translation>Адреса DiamondHandsCoin для підпису цього повідомлення</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2513,7 +2513,7 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>Копіювати поточну сигнатуру до системного буферу обміну</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Hubucoin address</source>
+        <source>Sign the message to prove you own this DiamondHandsCoin address</source>
         <translation>Підпишіть повідомлення щоб довести, що ви є власником цієї адреси</translation>
     </message>
     <message>
@@ -2537,12 +2537,12 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>Введіть нижче адресу отримувача, повідомлення (впевніться, що ви точно скопіювали символи завершення рядка, табуляцію, пробіли тощо) та підпис для перевірки повідомлення. Впевніться, що в підпис не було додано зайвих символів: це допоможе уникнути атак типу «людина посередині». Зауважте, що це лише засвідчує можливість отримання транзакцій підписувачем, але не в стані підтвердити джерело жодної транзакції!</translation>
     </message>
     <message>
-        <source>The Hubucoin address the message was signed with</source>
-        <translation>Адреса Hubucoin, якою було підписано це повідомлення</translation>
+        <source>The DiamondHandsCoin address the message was signed with</source>
+        <translation>Адреса DiamondHandsCoin, якою було підписано це повідомлення</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Hubucoin address</source>
-        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною Hubucoin-адресою</translation>
+        <source>Verify the message to ensure it was signed with the specified DiamondHandsCoin address</source>
+        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною DiamondHandsCoin-адресою</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -3197,8 +3197,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>Неможливо запустити HTTP-сервер. Детальніший опис наведено в журналі зневадження.</translation>
     </message>
     <message>
-        <source>Hubucoin Core</source>
-        <translation>Hubucoin Core</translation>
+        <source>DiamondHandsCoin Core</source>
+        <translation>DiamondHandsCoin Core</translation>
     </message>
     <message>
         <source>The %s developers</source>

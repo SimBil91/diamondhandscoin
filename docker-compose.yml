@@ -1,18 +1,18 @@
 version: '3'
 services:
-  hubucoin_node1:
+  diamondhandscoin_node1:
     build: .
     cap_add:
       - ALL
-    command: hubucoind -server -addnode=172.17.0.1:12345 -addnode=10.7.0.12:12345 -rpcuser=rpc -rpcpassword=x -rpcport=10340  -port=12345 
+    command: diamondhandscoind -server -addnode=172.17.0.1:12345 -addnode=10.7.0.12:12345 -rpcuser=rpc -rpcpassword=x -rpcport=10340  -port=12345 
     networks:
        vpcbr:
           ipv4_address: 10.7.0.11
-  hubucoin_node2:
+  diamondhandscoin_node2:
     build: .
     cap_add:
       - ALL
-    command: hubucoind -server -addnode=172.17.0.1:12345 -addnode=10.7.0.11:12345 -rpcuser=rpc -rpcpassword=x -rpcport=10340  -port=12345
+    command: diamondhandscoind -server -addnode=172.17.0.1:12345 -addnode=10.7.0.11:12345 -rpcuser=rpc -rpcpassword=x -rpcport=10340  -port=12345
     networks:
       vpcbr:
         ipv4_address: 10.7.0.12

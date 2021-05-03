@@ -151,8 +151,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Send coins to a Hubucoin address</source>
-        <translation>ផ្ញើកាក់ទៅកាន់ អាសយដ្ឋាន Hubucoin មួយ</translation>
+        <source>Send coins to a DiamondHandsCoin address</source>
+        <translation>ផ្ញើកាក់ទៅកាន់ អាសយដ្ឋាន DiamondHandsCoin មួយ</translation>
     </message>
     </context>
 <context>

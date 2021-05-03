@@ -62,12 +62,12 @@
         <translation>ที่อยู่ในการรับ</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>ที่อยู่ Hubucoin ของคุณสำหรับการส่งการชำระเงิน โปรดตรวจสอบจำนวนเงินและที่อยู่รับก่อนที่จะส่งเหรียญ</translation>
+        <source>These are your DiamondHandsCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>ที่อยู่ DiamondHandsCoin ของคุณสำหรับการส่งการชำระเงิน โปรดตรวจสอบจำนวนเงินและที่อยู่รับก่อนที่จะส่งเหรียญ</translation>
     </message>
     <message>
-        <source>These are your Hubucoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>ที่อยู่ Hubucoin ของคุณสำหรับการรับเงิน แนะนำให้ใช้ที่อยู่รับใหม่สำหรับแต่ละธุรกรรม</translation>
+        <source>These are your DiamondHandsCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>ที่อยู่ DiamondHandsCoin ของคุณสำหรับการรับเงิน แนะนำให้ใช้ที่อยู่รับใหม่สำหรับแต่ละธุรกรรม</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>

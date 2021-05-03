@@ -6,8 +6,8 @@
 """
     ZMQ example using python3's asyncio
 
-    Hubucoin should be started with the command line arguments:
-        hubucoind -testnet -daemon \
+    DiamondHandsCoin should be started with the command line arguments:
+        diamondhandscoind -testnet -daemon \
                 -zmqpubrawtx=tcp://127.0.0.1:28332 \
                 -zmqpubrawblock=tcp://127.0.0.1:28332 \
                 -zmqpubhashtx=tcp://127.0.0.1:28332 \

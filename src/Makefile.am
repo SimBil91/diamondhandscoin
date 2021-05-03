@@ -82,18 +82,18 @@ TESTS =
 BENCHMARKS =
 
 if BUILD_BITCOIND
-  bin_PROGRAMS += hubucoind
+  bin_PROGRAMS += diamondhandscoind
 endif
 
 if BUILD_BITCOIN_CLI
-  bin_PROGRAMS += hubucoin-cli
+  bin_PROGRAMS += diamondhandscoin-cli
 endif
 if BUILD_BITCOIN_TX
-  bin_PROGRAMS += hubucoin-tx
+  bin_PROGRAMS += diamondhandscoin-tx
 endif
 if ENABLE_WALLET
 if BUILD_BITCOIN_WALLET
-  bin_PROGRAMS += hubucoin-wallet
+  bin_PROGRAMS += diamondhandscoin-wallet
 endif
 endif
 
@@ -485,16 +485,16 @@ nodist_libbitcoin_util_a_SOURCES = $(srcdir)/obj/build.h
 #
 
 # bitcoind binary #
-hubucoind_SOURCES = bitcoind.cpp
-hubucoind_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES)
-hubucoind_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
-hubucoind_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
+diamondhandscoind_SOURCES = bitcoind.cpp
+diamondhandscoind_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES)
+diamondhandscoind_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
+diamondhandscoind_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
 
 if TARGET_WINDOWS
-hubucoind_SOURCES += bitcoind-res.rc
+diamondhandscoind_SOURCES += bitcoind-res.rc
 endif
 
-hubucoind_LDADD = \
+diamondhandscoind_LDADD = \
   $(LIBBITCOIN_SERVER) \
   $(LIBBITCOIN_WALLET) \
   $(LIBBITCOIN_SERVER) \
@@ -509,38 +509,38 @@ hubucoind_LDADD = \
   $(LIBMEMENV) \
   $(LIBSECP256K1)
 
-hubucoind_LDADD += $(BOOST_LIBS) $(BDB_LIBS) $(CRYPTO_LIBS) $(MINIUPNPC_LIBS) $(EVENT_PTHREADS_LIBS) $(EVENT_LIBS) $(ZMQ_LIBS)
+diamondhandscoind_LDADD += $(BOOST_LIBS) $(BDB_LIBS) $(CRYPTO_LIBS) $(MINIUPNPC_LIBS) $(EVENT_PTHREADS_LIBS) $(EVENT_LIBS) $(ZMQ_LIBS)
 
 # bitcoin-cli binary #
-hubucoin_cli_SOURCES = bitcoin-cli.cpp
-hubucoin_cli_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES) $(EVENT_CFLAGS)
-hubucoin_cli_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
-hubucoin_cli_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
+diamondhandscoin_cli_SOURCES = bitcoin-cli.cpp
+diamondhandscoin_cli_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES) $(EVENT_CFLAGS)
+diamondhandscoin_cli_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
+diamondhandscoin_cli_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
 
 if TARGET_WINDOWS
-hubucoin_cli_SOURCES += bitcoin-cli-res.rc
+diamondhandscoin_cli_SOURCES += bitcoin-cli-res.rc
 endif
 
-hubucoin_cli_LDADD = \
+diamondhandscoin_cli_LDADD = \
   $(LIBBITCOIN_CLI) \
   $(LIBUNIVALUE) \
   $(LIBBITCOIN_UTIL) \
   $(LIBBITCOIN_CRYPTO)
 
-hubucoin_cli_LDADD += $(BOOST_LIBS) $(CRYPTO_LIBS) $(EVENT_LIBS)
+diamondhandscoin_cli_LDADD += $(BOOST_LIBS) $(CRYPTO_LIBS) $(EVENT_LIBS)
 #
 
 # bitcoin-tx binary #
-hubucoin_tx_SOURCES = bitcoin-tx.cpp
-hubucoin_tx_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES)
-hubucoin_tx_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
-hubucoin_tx_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
+diamondhandscoin_tx_SOURCES = bitcoin-tx.cpp
+diamondhandscoin_tx_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES)
+diamondhandscoin_tx_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
+diamondhandscoin_tx_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
 
 if TARGET_WINDOWS
-hubucoin_tx_SOURCES += bitcoin-tx-res.rc
+diamondhandscoin_tx_SOURCES += bitcoin-tx-res.rc
 endif
 
-hubucoin_tx_LDADD = \
+diamondhandscoin_tx_LDADD = \
   $(LIBUNIVALUE) \
   $(LIBBITCOIN_COMMON) \
   $(LIBBITCOIN_UTIL) \
@@ -548,20 +548,20 @@ hubucoin_tx_LDADD = \
   $(LIBBITCOIN_CRYPTO) \
   $(LIBSECP256K1)
 
-hubucoin_tx_LDADD += $(BOOST_LIBS) $(CRYPTO_LIBS)
+diamondhandscoin_tx_LDADD += $(BOOST_LIBS) $(CRYPTO_LIBS)
 #
 
 # bitcoin-wallet binary #
-hubucoin_wallet_SOURCES = bitcoin-wallet.cpp
-hubucoin_wallet_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES)
-hubucoin_wallet_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
-hubucoin_wallet_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
+diamondhandscoin_wallet_SOURCES = bitcoin-wallet.cpp
+diamondhandscoin_wallet_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES)
+diamondhandscoin_wallet_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
+diamondhandscoin_wallet_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
 
 if TARGET_WINDOWS
-hubucoin_wallet_SOURCES += bitcoin-wallet-res.rc
+diamondhandscoin_wallet_SOURCES += bitcoin-wallet-res.rc
 endif
 
-hubucoin_wallet_LDADD = \
+diamondhandscoin_wallet_LDADD = \
   $(LIBBITCOIN_WALLET_TOOL) \
   $(LIBBITCOIN_WALLET) \
   $(LIBBITCOIN_SERVER) \
@@ -574,7 +574,7 @@ hubucoin_wallet_LDADD = \
   $(LIBMEMENV) \
   $(LIBSECP256K1)
 
-hubucoin_wallet_LDADD += $(BOOST_LIBS) $(BDB_LIBS) $(CRYPTO_LIBS) $(MINIUPNPC_LIBS)
+diamondhandscoin_wallet_LDADD += $(BOOST_LIBS) $(BDB_LIBS) $(CRYPTO_LIBS) $(MINIUPNPC_LIBS)
 #
 
 # bitcoinconsensus library #

@@ -1,14 +1,14 @@
 *.tar.gz
 
 *.exe
-src/hubucoin
-src/hubucoind
-src/hubucoin-cli
-src/hubucoin-tx
-src/hubucoin-wallet
-src/test/test_hubucoin
-src/test/test_hubucoin_fuzzy
-src/qt/test/test_hubucoin-qt
+src/diamondhandscoin
+src/diamondhandscoind
+src/diamondhandscoin-cli
+src/diamondhandscoin-tx
+src/diamondhandscoin-wallet
+src/test/test_diamondhandscoin
+src/test/test_diamondhandscoin_fuzzy
+src/qt/test/test_diamondhandscoin-qt
 
 # autoreconf
 Makefile.in
@@ -83,13 +83,13 @@ src/qt/bitcoin-qt.includes
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-hubucoin-qt
-hubucoin-Qt.app
+diamondhandscoin-qt
+diamondhandscoin-Qt.app
 background.tiff*
 
 # Unit-tests
 Makefile.test
-hubucoin-qt_test
+diamondhandscoin-qt_test
 
 # Resources cpp
 qrc_*.cpp
@@ -101,7 +101,7 @@ build
 *.gcno
 *.gcda
 /*.info
-test_hubucoin.coverage/
+test_diamondhandscoin.coverage/
 total.coverage/
 coverage_percent.txt
 

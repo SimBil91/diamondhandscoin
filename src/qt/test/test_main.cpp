@@ -53,7 +53,7 @@ int main(int argc, char *argv[])
     SelectParams(CBaseChainParams::REGTEST);
     noui_connect();
     ClearDatadirCache();
-    fs::path pathTemp = fs::temp_directory_path() / strprintf("test_hubucoin-qt_%lu_%i", (unsigned long)GetTime(), (int)GetRand(100000));
+    fs::path pathTemp = fs::temp_directory_path() / strprintf("test_diamondhandscoin-qt_%lu_%i", (unsigned long)GetTime(), (int)GetRand(100000));
     fs::create_directories(pathTemp);
     gArgs.ForceSetArg("-datadir", pathTemp.string());
     auto node = interfaces::MakeNode();
@@ -72,7 +72,7 @@ int main(int argc, char *argv[])
     // Don't remove this, it's needed to access
     // QApplication:: and QCoreApplication:: in the tests
     BitcoinApplication app(*node);
-    app.setApplicationName("Hubucoin-Qt-test");
+    app.setApplicationName("DiamondHandsCoin-Qt-test");
 
     SSL_library_init();
 

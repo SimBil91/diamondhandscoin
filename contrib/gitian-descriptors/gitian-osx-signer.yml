@@ -1,5 +1,5 @@
 ---
-name: "hubucoin-dmg-signer"
+name: "diamondhandscoin-dmg-signer"
 suites:
 - "bionic"
 architectures:
@@ -7,10 +7,10 @@ architectures:
 packages:
 - "faketime"
 remotes:
-- "url": "https://github.com/hubucoin-project/hubucoin-detached-sigs.git"
+- "url": "https://github.com/diamondhandscoin-project/diamondhandscoin-detached-sigs.git"
   "dir": "signature"
 files:
-- "hubucoin-osx-unsigned.tar.gz"
+- "diamondhandscoin-osx-unsigned.tar.gz"
 script: |
   set -e -o pipefail
 
@@ -29,8 +29,8 @@ script: |
     chmod +x ${WRAP_DIR}/${prog}
   done
 
-  UNSIGNED=hubucoin-osx-unsigned.tar.gz
-  SIGNED=hubucoin-osx-signed.dmg
+  UNSIGNED=diamondhandscoin-osx-unsigned.tar.gz
+  SIGNED=diamondhandscoin-osx-signed.dmg
 
   tar -xf ${UNSIGNED}
   OSX_VOLNAME="$(cat osx_volname)"
